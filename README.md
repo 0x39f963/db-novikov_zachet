@@ -11,10 +11,10 @@
 - https://github.com/0x39f963/db-novikov_zachet
 
 **0.2 главнгый файл с кодом ДЗ (есть еще sql скрипт дополнительно, для импорта данных)**
-- https://github.com/0x39f963/db-novikov_zachet/spark/main.py
+- ./spark/main.py
 
 **0.3 ноутбук, который дублирует информацию, которая изложена в README.md**
-- https://github.com/0x39f963/db-novikov_zachet/NovikovIA.ipynb
+- ./NovikovIA.ipynb
  
 *(README открывается сразу при переходе в репу, мне кажется, что так удобнее)*
 
@@ -36,12 +36,12 @@ docker-compose.yml
 ./spark/test_spark_2.py
 
 **1.1**  Поднимаем контейнеры 
-![1.1](https://github.com/0x39f963/db-novikov_zachet/images/5.png)
+![1.1](./images/5.png)
 
 .
 
 **1.2**  Проверяем, что все собралось, порты, версию спарка:
-![1.2](https://github.com/0x39f963/db-novikov_zachet/images/3.png)
+![1.2](./images/3.png)
 
 
 **1.3 **  Тестирование обращения к postgre и к mongo из spark 
@@ -66,7 +66,7 @@ spark.stop()
 ```
 
 
-![1.3.1.2](https://github.com/0x39f963/db-novikov_zachet/images/1.png)
+![1.3.1.2](./images/1.png)
 
 .
 
@@ -96,7 +96,7 @@ spark.stop()
 ```
 
 
-![1.3.1.2](https://github.com/0x39f963/db-novikov_zachet/images/2.png)
+![1.3.1.2](./images/2.png)
 
 .
 
@@ -216,10 +216,10 @@ SELECT * FROM orders ORDER BY order_date DESC LIMIT 5;
 
 *x39963@DESKTOP-M5RSHAT:~/mipt/hw_spark$ docker compose exec -T postgres psql -U hw -d hw -f /data/init.sql*
 
-![1.4](https://github.com/0x39f963/db-novikov_zachet/images/4.png)
+![1.4](./images/4.png)
 
 
-# 3. Основной код ДЗ и скриншоты выполнения:
+# 3. Основной код зачетной работы и скриншоты выполнения:
 
 **./spark/main.py в репозитории**
 
@@ -407,21 +407,21 @@ if __name__ == "__main__":
 
 
 **3.1**
-![3.1](https://github.com/0x39f963/db-novikov_zachet/images/6.png)
+![3.1](./images/6.png)
 
 .
 
 **3.2**
-![3.2](https://github.com/0x39f963/db-novikov_zachet/images/7.png)
+![3.2](./images/7.png)
 
 .
 
 **3.3**
-![3.3](https://github.com/0x39f963/db-novikov_zachet/images/8.png)
+![3.3](./images/8.png)
 
 .
 
 **3.3**
-![3.3](https://github.com/0x39f963/db-novikov_zachet/images/9.png)
+![3.3](./images/9.png)
 
 
