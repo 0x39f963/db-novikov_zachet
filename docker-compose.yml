@@ -1,0 +1,38 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: hw-postgres
+    environment:
+      POSTGRES_DB: hw
+      POSTGRES_USER: hw
+      POSTGRES_PASSWORD: hwpass
+    ports:
+      - "5439:5432"
+    volumes:
+      - ./data:/data:ro
+      - pgdata:/var/lib/postgresql/data
+
+  mongo:
+    image: mongo:7
+    container_name: hw-mongo
+    environment:
+      MONGO_INITDB_DATABASE: hw
+    ports:
+      - "27019:27017"
+    volumes:
+      - ./data:/import_mongo:ro
+      - mongodata:/data/db
+
+  spark:
+    container_name: hw-spark
+    image: spark:3.5.7-java17-python3
+    environment:
+      - HOME=/tmp
+    volumes:
+      - ./spark:/opt/spark-app:ro
+      - ./data:/data:ro
+    command: ["sleep", "infinity"]
+  
+volumes:
+  pgdata:
+  mongodata:

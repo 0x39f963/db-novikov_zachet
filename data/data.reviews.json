@@ -1,0 +1,9100 @@
+[{
+  "_id": {
+    "$oid": "68b608db90425f342a54e64f"
+  },
+  "review_id": "0d15fd9d-cd8f-4217-9a8a-798b10969435",
+  "product_id": 35,
+  "customer_id": 33,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-08-08T15:58:22.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e650"
+  },
+  "review_id": "1ffd54d3-f576-4b8a-a2bb-a1ae80a5d402",
+  "product_id": 45,
+  "customer_id": 85,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-06T20:45:32.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e651"
+  },
+  "review_id": "c14612fd-5bfc-4ed2-ba5b-a0618af9db5e",
+  "product_id": 45,
+  "customer_id": 65,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-28T13:11:10.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e652"
+  },
+  "review_id": "c4481f23-5aa7-482f-b784-5575a6262291",
+  "product_id": 13,
+  "customer_id": 116,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-10-05T17:11:21.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e653"
+  },
+  "review_id": "1ffcb896-ace5-4563-b777-5494a7d0f15f",
+  "product_id": 39,
+  "customer_id": 16,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-10T16:34:27.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e654"
+  },
+  "review_id": "8bce04bc-e7fc-4249-8f25-dc0c45f2d1c0",
+  "product_id": 45,
+  "customer_id": 1,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-23T09:02:37.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e655"
+  },
+  "review_id": "897b584b-da54-4e0f-9845-1dca06cbddc7",
+  "product_id": 43,
+  "customer_id": 126,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-29T23:07:10.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e656"
+  },
+  "review_id": "b91d3223-6cdd-4ddd-947a-e18717b3984d",
+  "product_id": 4,
+  "customer_id": 140,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-30T07:38:24.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e657"
+  },
+  "review_id": "5dfd0cdc-caea-4900-b647-3736fe39414d",
+  "product_id": 22,
+  "customer_id": 26,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-18T18:27:07.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e658"
+  },
+  "review_id": "ab7b8306-727e-4491-a687-19fb32e7ed69",
+  "product_id": 35,
+  "customer_id": 18,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-03T06:28:23.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e659"
+  },
+  "review_id": "a296c432-11d4-49bb-9ebb-f3a544e52ab8",
+  "product_id": 16,
+  "customer_id": 6,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-26T00:35:39.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e65a"
+  },
+  "review_id": "377a6e08-545a-46b9-a5c2-43ff30ae939a",
+  "product_id": 16,
+  "customer_id": 89,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-10T21:25:37.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e65b"
+  },
+  "review_id": "b83f9a8c-9894-47cb-8b31-47d1710c47ee",
+  "product_id": 29,
+  "customer_id": 37,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-26T15:45:02.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e65c"
+  },
+  "review_id": "b947d886-8297-4aa0-aaa3-34566e166535",
+  "product_id": 20,
+  "customer_id": 129,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-29T17:46:59.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e65d"
+  },
+  "review_id": "5ecd554f-8f13-450f-a9ef-5b7fc9a2a1e2",
+  "product_id": 6,
+  "customer_id": 136,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-18T19:05:40.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e65e"
+  },
+  "review_id": "0cfb5310-366c-4aad-a4c8-8f667acde1f9",
+  "product_id": 48,
+  "customer_id": 16,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-10-26T14:35:53.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e65f"
+  },
+  "review_id": "5f9b4084-d929-4396-af49-25c359fe4f67",
+  "product_id": 16,
+  "customer_id": 25,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-09-22T13:56:15.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e660"
+  },
+  "review_id": "b0023828-3020-4ab1-bfc4-bc21c1cb10f3",
+  "product_id": 42,
+  "customer_id": 87,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-17T05:39:05.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e661"
+  },
+  "review_id": "16ee04e0-65bb-485d-82ac-a1a58c087dfd",
+  "product_id": 28,
+  "customer_id": 51,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-12-06T15:21:35.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e662"
+  },
+  "review_id": "209080d8-e834-4a82-8509-5992d855a3df",
+  "product_id": 24,
+  "customer_id": 59,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-13T12:34:43.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e663"
+  },
+  "review_id": "02a5ff19-f97c-458e-9a3a-016facd3feac",
+  "product_id": 7,
+  "customer_id": 104,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-30T13:31:35.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e664"
+  },
+  "review_id": "1b5f67b1-e50a-46d8-8d5c-edc79b9d3f8e",
+  "product_id": 40,
+  "customer_id": 123,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-26T14:37:33.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e665"
+  },
+  "review_id": "604746d5-ef4f-4b70-b3f3-bbe8536772db",
+  "product_id": 17,
+  "customer_id": 81,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-08T17:10:41.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e666"
+  },
+  "review_id": "93dd8928-3623-4c77-a15a-ded84eb67fe8",
+  "product_id": 14,
+  "customer_id": 92,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-23T03:15:52.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e667"
+  },
+  "review_id": "53d4f8b0-0a38-407d-a3c3-d4d6229c0b30",
+  "product_id": 31,
+  "customer_id": 42,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-28T23:50:11.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e668"
+  },
+  "review_id": "0bbdc516-5f5a-4573-b7d0-c794f24bbcf7",
+  "product_id": 30,
+  "customer_id": 119,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-31T21:35:15.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e669"
+  },
+  "review_id": "83b37326-a3a9-49b0-ba8d-4a0154bc2dac",
+  "product_id": 33,
+  "customer_id": 78,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-06T02:47:03.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e66a"
+  },
+  "review_id": "fd943bdd-d32f-49f5-9ebb-bb62eba36342",
+  "product_id": 28,
+  "customer_id": 119,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-04T10:02:33.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e66b"
+  },
+  "review_id": "90aba498-653e-4084-87fe-589f2ba60776",
+  "product_id": 10,
+  "customer_id": 46,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-16T04:44:14.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e66c"
+  },
+  "review_id": "fe79d003-4432-45ef-b1e3-75d1571430b3",
+  "product_id": 6,
+  "customer_id": 27,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-15T02:11:14.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e66d"
+  },
+  "review_id": "63be61fa-b40a-4cc7-b546-2ca123c3237f",
+  "product_id": 43,
+  "customer_id": 116,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-11T14:51:52.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e66e"
+  },
+  "review_id": "e2e06a49-f69b-47f3-83f1-08503ef705e4",
+  "product_id": 24,
+  "customer_id": 64,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-16T16:34:48.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e66f"
+  },
+  "review_id": "3fb957e1-d7eb-40a5-93d6-0b1e3f1e0d2a",
+  "product_id": 41,
+  "customer_id": 70,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-19T06:48:11.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e670"
+  },
+  "review_id": "a954ddc7-ddb8-4fe2-a243-210eebd8f317",
+  "product_id": 24,
+  "customer_id": 95,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-08T18:16:51.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e671"
+  },
+  "review_id": "ad6d11e0-96c5-469a-a5e8-f235c22f1326",
+  "product_id": 26,
+  "customer_id": 118,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-18T15:56:47.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e672"
+  },
+  "review_id": "dfc7c1dd-4eec-4d3a-8b97-000154077382",
+  "product_id": 31,
+  "customer_id": 55,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-10T20:08:45.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e673"
+  },
+  "review_id": "cf36405a-3a15-4635-8ed1-8694c327629f",
+  "product_id": 36,
+  "customer_id": 122,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-18T09:15:00.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e674"
+  },
+  "review_id": "a47887f9-4c41-459c-8ba8-df651f3e2f28",
+  "product_id": 29,
+  "customer_id": 72,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-13T12:27:28.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e675"
+  },
+  "review_id": "c182e243-f187-4054-8367-ac843b26a6b9",
+  "product_id": 42,
+  "customer_id": 27,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-11T22:58:29.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e676"
+  },
+  "review_id": "69fba24f-5667-49b0-af24-4b570c1dc002",
+  "product_id": 1,
+  "customer_id": 69,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-01T03:14:25.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e677"
+  },
+  "review_id": "d891c478-fd9e-4240-8f1e-ee90ea1ac486",
+  "product_id": 12,
+  "customer_id": 79,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-22T05:43:13.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e678"
+  },
+  "review_id": "9ef22cd4-8119-427b-a85f-bf8bd356cc6f",
+  "product_id": 15,
+  "customer_id": 124,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-01T17:49:47.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e679"
+  },
+  "review_id": "5120b1ee-4f21-48cf-acd6-87f7a1632f99",
+  "product_id": 37,
+  "customer_id": 102,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-04T17:47:01.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e67a"
+  },
+  "review_id": "4f14a9a0-d957-4274-8b1c-686d42c618a9",
+  "product_id": 47,
+  "customer_id": 85,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-28T23:51:09.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e67b"
+  },
+  "review_id": "9669d2e5-6c90-4348-8c87-4374886149e7",
+  "product_id": 7,
+  "customer_id": 63,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-12T21:26:52.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e67c"
+  },
+  "review_id": "fd05bc42-c954-41d7-ad50-3b5f57b50f7b",
+  "product_id": 43,
+  "customer_id": 148,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-24T21:35:00.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e67d"
+  },
+  "review_id": "f706d5cd-809c-441c-86c4-63a52b6d303c",
+  "product_id": 49,
+  "customer_id": 127,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-08T12:34:37.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e67e"
+  },
+  "review_id": "3cfdcd71-12b5-4531-9086-4b58566534d7",
+  "product_id": 37,
+  "customer_id": 56,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-20T06:19:02.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e67f"
+  },
+  "review_id": "b1342bae-69f2-4e33-a498-0c4c3e492d33",
+  "product_id": 46,
+  "customer_id": 101,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-02T09:35:14.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e680"
+  },
+  "review_id": "f744d5c4-b8ad-4df5-a566-8acf2fcccdba",
+  "product_id": 18,
+  "customer_id": 88,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-23T18:09:32.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e681"
+  },
+  "review_id": "7e33ac90-9e85-4e6d-a901-f6638446af30",
+  "product_id": 34,
+  "customer_id": 138,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-08T11:20:27.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e682"
+  },
+  "review_id": "8d3ba3ce-402c-4d68-92b0-a926ba62aaf6",
+  "product_id": 5,
+  "customer_id": 74,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-02T11:29:47.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e683"
+  },
+  "review_id": "44c21525-6da4-4cfb-8406-750430247cac",
+  "product_id": 39,
+  "customer_id": 46,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-22T21:26:56.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e684"
+  },
+  "review_id": "a8bd105d-74b1-47f3-be0a-121ea7892de7",
+  "product_id": 24,
+  "customer_id": 38,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-26T07:12:00.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e685"
+  },
+  "review_id": "91a9b33c-5d1c-455d-a20f-51f55d7e4af7",
+  "product_id": 35,
+  "customer_id": 21,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-16T20:47:28.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e686"
+  },
+  "review_id": "426b4f97-94ec-487c-80b4-4b3989d3571a",
+  "product_id": 26,
+  "customer_id": 50,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-15T21:40:21.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e687"
+  },
+  "review_id": "caf39045-d48b-4232-bb8a-c0ee1ad6fed8",
+  "product_id": 26,
+  "customer_id": 92,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-13T18:32:15.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e688"
+  },
+  "review_id": "e2394a53-45f0-46fb-9f5a-ffad129634a4",
+  "product_id": 1,
+  "customer_id": 129,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-04-29T08:49:36.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e689"
+  },
+  "review_id": "e920d1fb-42af-4dfa-8a59-9f695eb6ced3",
+  "product_id": 49,
+  "customer_id": 24,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-04T17:04:43.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e68a"
+  },
+  "review_id": "225dd8e6-dca4-41d2-95a5-d7f213a52ab5",
+  "product_id": 48,
+  "customer_id": 146,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-31T10:31:17.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e68b"
+  },
+  "review_id": "b18a4b43-a138-4732-ab8a-a902c56a28ed",
+  "product_id": 49,
+  "customer_id": 101,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-11T00:03:00.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e68c"
+  },
+  "review_id": "5ab7f3f2-4a1a-4345-80d2-24568a245086",
+  "product_id": 29,
+  "customer_id": 68,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-12-26T20:50:36.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e68d"
+  },
+  "review_id": "47d8a4da-9066-46f3-89e2-0e8129244761",
+  "product_id": 3,
+  "customer_id": 18,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-19T21:06:30.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e68e"
+  },
+  "review_id": "cad567e5-99e4-4d06-bec7-44fa4487ed01",
+  "product_id": 47,
+  "customer_id": 65,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-08-31T22:20:59.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e68f"
+  },
+  "review_id": "75183f7d-5eb5-4273-9390-ef275eb01fab",
+  "product_id": 41,
+  "customer_id": 23,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-16T02:20:54.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e690"
+  },
+  "review_id": "85d39983-8c67-459b-807a-463e98d877c4",
+  "product_id": 44,
+  "customer_id": 141,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-01T06:13:33.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e691"
+  },
+  "review_id": "797897e4-817d-4ff7-b97c-56082e82bfcb",
+  "product_id": 36,
+  "customer_id": 35,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-05T19:34:33.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e692"
+  },
+  "review_id": "e73c944f-55da-4571-8801-9e463b17bb10",
+  "product_id": 14,
+  "customer_id": 138,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-22T17:08:46.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e693"
+  },
+  "review_id": "8c72191c-56e6-4a95-bc70-c5bedb099739",
+  "product_id": 18,
+  "customer_id": 89,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-08T12:18:05.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e694"
+  },
+  "review_id": "4aa5a2c8-ca8d-48c4-9326-ee49de2b0696",
+  "product_id": 19,
+  "customer_id": 54,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-20T13:17:24.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e695"
+  },
+  "review_id": "a4da2bd0-81ab-44f2-8c5e-dc416e0cbef2",
+  "product_id": 3,
+  "customer_id": 25,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-13T03:46:09.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e696"
+  },
+  "review_id": "6cf10eb6-4e9b-4d05-b1c4-8d01069f8794",
+  "product_id": 50,
+  "customer_id": 34,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-27T11:31:42.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e697"
+  },
+  "review_id": "c22b28af-4222-4b3b-a50d-0271d50a2a50",
+  "product_id": 18,
+  "customer_id": 124,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-17T01:44:19.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e698"
+  },
+  "review_id": "18d21c7c-dc56-451e-aeae-67efecd8b656",
+  "product_id": 15,
+  "customer_id": 49,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-13T06:57:32.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e699"
+  },
+  "review_id": "4875dbcf-306f-456b-a334-62edf994c9ac",
+  "product_id": 27,
+  "customer_id": 10,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-30T14:51:53.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e69a"
+  },
+  "review_id": "1cc40f19-ab69-4484-99cf-f22130cec6f3",
+  "product_id": 2,
+  "customer_id": 78,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-22T17:20:01.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e69b"
+  },
+  "review_id": "2c65839d-ab11-4b4e-9084-0a7020c8389c",
+  "product_id": 30,
+  "customer_id": 92,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-27T01:15:10.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e69c"
+  },
+  "review_id": "f08cf538-6d95-4fe6-88af-abfd75d3200d",
+  "product_id": 33,
+  "customer_id": 149,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-24T16:19:40.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e69d"
+  },
+  "review_id": "f931130b-90db-46b4-9002-0f291402764e",
+  "product_id": 32,
+  "customer_id": 33,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-02T08:37:39.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e69e"
+  },
+  "review_id": "08dc8539-55bb-4263-a882-aae7ceb0ae3c",
+  "product_id": 1,
+  "customer_id": 87,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-15T01:33:27.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e69f"
+  },
+  "review_id": "c12be872-d75e-40d3-9e5c-96d9a5e2336b",
+  "product_id": 21,
+  "customer_id": 11,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-07T11:31:25.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a0"
+  },
+  "review_id": "4d059e25-7be8-48d8-a300-9bee29181636",
+  "product_id": 9,
+  "customer_id": 40,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-06T12:09:01.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a1"
+  },
+  "review_id": "7e1723a3-2aa3-4516-9425-94f0ac9a8fc1",
+  "product_id": 44,
+  "customer_id": 3,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-29T18:57:28.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a2"
+  },
+  "review_id": "ae1df81e-e297-419a-a467-7c72cd9f12de",
+  "product_id": 24,
+  "customer_id": 91,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-09-29T01:23:50.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a3"
+  },
+  "review_id": "e16edb0c-e037-4ee6-9f81-590aefd7260e",
+  "product_id": 16,
+  "customer_id": 37,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-13T12:03:56.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a4"
+  },
+  "review_id": "c542ff31-a870-4451-b340-acf9b7a568f2",
+  "product_id": 45,
+  "customer_id": 91,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-30T23:59:16.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a5"
+  },
+  "review_id": "da63244c-7258-4b63-8139-27be42a21e3d",
+  "product_id": 24,
+  "customer_id": 8,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-10T16:32:05.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a6"
+  },
+  "review_id": "658d5ed1-dd6e-48ad-9ee8-9beca83a537f",
+  "product_id": 48,
+  "customer_id": 12,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-07T12:53:02.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a7"
+  },
+  "review_id": "82cd7101-d502-41bd-ae54-af372e0562eb",
+  "product_id": 33,
+  "customer_id": 39,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-12T17:49:20.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a8"
+  },
+  "review_id": "00df37cd-a427-4f11-a39f-6d203d999b9f",
+  "product_id": 42,
+  "customer_id": 51,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-08T05:59:00.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6a9"
+  },
+  "review_id": "4a6d7dd4-7abd-4962-a94b-f1129094bf11",
+  "product_id": 41,
+  "customer_id": 83,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-28T12:55:49.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6aa"
+  },
+  "review_id": "6312bfc9-3330-4d3f-8758-d980d6582ed5",
+  "product_id": 31,
+  "customer_id": 85,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-14T11:51:00.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ab"
+  },
+  "review_id": "21b594b3-b84b-4970-a17d-40a5d651a8e4",
+  "product_id": 14,
+  "customer_id": 112,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-04T15:34:03.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ac"
+  },
+  "review_id": "a3817941-4a1c-4564-b39f-96d5465e10a5",
+  "product_id": 49,
+  "customer_id": 103,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-03T03:29:28.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ad"
+  },
+  "review_id": "010689f5-f9d5-462a-8b7e-8c49d9f4d7b8",
+  "product_id": 23,
+  "customer_id": 66,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-23T01:16:22.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ae"
+  },
+  "review_id": "c9d44407-6991-4cc7-8065-cd2a3d126cfe",
+  "product_id": 1,
+  "customer_id": 9,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-12T22:12:39.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6af"
+  },
+  "review_id": "1cc3052c-9f5e-4e8b-a075-3da98ba096a0",
+  "product_id": 31,
+  "customer_id": 80,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-11T01:23:11.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b0"
+  },
+  "review_id": "549fd4d2-72df-4727-ae05-8a8866ad7d78",
+  "product_id": 10,
+  "customer_id": 65,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-15T02:00:52.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b1"
+  },
+  "review_id": "617a0194-1f4b-4893-be44-780bb6a98019",
+  "product_id": 5,
+  "customer_id": 33,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-27T08:33:12.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b2"
+  },
+  "review_id": "ad57c3db-eee0-4767-a62d-8340f18d6dfd",
+  "product_id": 39,
+  "customer_id": 14,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-01T03:54:56.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b3"
+  },
+  "review_id": "6c6ecbeb-71e0-4c63-ac2e-474f07dc85e0",
+  "product_id": 17,
+  "customer_id": 29,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-26T22:04:05.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b4"
+  },
+  "review_id": "bb2859c9-1c8f-407c-8019-86c5ea5ec476",
+  "product_id": 27,
+  "customer_id": 45,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-03T18:57:31.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b5"
+  },
+  "review_id": "50ce5994-3699-4172-8dee-2a917a517e86",
+  "product_id": 12,
+  "customer_id": 74,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-08T09:48:13.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b6"
+  },
+  "review_id": "3280925a-9488-4c72-a5c3-399f4b6570f9",
+  "product_id": 49,
+  "customer_id": 45,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-28T09:14:08.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b7"
+  },
+  "review_id": "ccc5e3ce-1499-43c9-a0e0-8b9e3fc273b2",
+  "product_id": 8,
+  "customer_id": 96,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-12T22:21:41.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b8"
+  },
+  "review_id": "96ac477e-0f04-4b7d-8439-5ba1b434aaac",
+  "product_id": 40,
+  "customer_id": 118,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-04T04:02:55.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6b9"
+  },
+  "review_id": "3f9835eb-beb2-4c97-aba3-fc5a905a2d2e",
+  "product_id": 45,
+  "customer_id": 126,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-10T17:34:47.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ba"
+  },
+  "review_id": "d9548dc2-a435-4f5f-8949-ffd72062dab1",
+  "product_id": 9,
+  "customer_id": 98,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-26T05:13:24.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6bb"
+  },
+  "review_id": "cfc9b1a3-e2df-49ca-b048-4215b137006f",
+  "product_id": 28,
+  "customer_id": 92,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-25T20:21:47.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6bc"
+  },
+  "review_id": "a791d909-c132-4967-affb-b1c3fc3ad5f1",
+  "product_id": 23,
+  "customer_id": 46,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-25T10:24:34.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6bd"
+  },
+  "review_id": "4079ecda-7dd8-4f4b-9010-420f7ef77be5",
+  "product_id": 46,
+  "customer_id": 72,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-27T12:36:38.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6be"
+  },
+  "review_id": "6c15ae30-6592-40e8-9252-5be7a86d4066",
+  "product_id": 5,
+  "customer_id": 66,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-26T10:29:03.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6bf"
+  },
+  "review_id": "c9086615-fefe-4a39-ae74-faef9c882e88",
+  "product_id": 25,
+  "customer_id": 92,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-26T11:15:03.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c0"
+  },
+  "review_id": "5cd863c7-1b03-44a8-ab7d-5fb8556eba96",
+  "product_id": 18,
+  "customer_id": 135,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-13T19:08:45.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c1"
+  },
+  "review_id": "88842444-1d5a-44af-a64d-c51f724854de",
+  "product_id": 33,
+  "customer_id": 47,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-31T11:05:24.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c2"
+  },
+  "review_id": "d4dab1ee-1920-4384-80bd-976dc4500b56",
+  "product_id": 38,
+  "customer_id": 87,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-29T08:43:52.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c3"
+  },
+  "review_id": "334db38b-a5a2-4063-8a5f-3cbf02f2fb0a",
+  "product_id": 9,
+  "customer_id": 32,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-09T04:11:49.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c4"
+  },
+  "review_id": "ab6cdf2f-3cf6-4943-95d4-6dcc83adfb42",
+  "product_id": 24,
+  "customer_id": 5,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-24T12:53:45.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c5"
+  },
+  "review_id": "e666db20-1cd3-4cbb-a73e-cca3e7a161aa",
+  "product_id": 29,
+  "customer_id": 21,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-09T01:56:06.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c6"
+  },
+  "review_id": "58f273ba-1c97-4f28-b8c8-e13238bd0e34",
+  "product_id": 5,
+  "customer_id": 94,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-26T10:48:47.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c7"
+  },
+  "review_id": "1022ef1a-82a6-4746-9bf6-b5bf1b8fd3db",
+  "product_id": 29,
+  "customer_id": 110,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-14T04:33:34.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c8"
+  },
+  "review_id": "6fb98217-c59c-41b4-b180-2f7d3b0e24cb",
+  "product_id": 32,
+  "customer_id": 138,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-18T23:12:19.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6c9"
+  },
+  "review_id": "533212e7-e1ea-48e0-9b71-86666958e665",
+  "product_id": 41,
+  "customer_id": 13,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-07T05:09:55.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ca"
+  },
+  "review_id": "30de6d78-6764-4a4f-be46-d8e8b8fce60f",
+  "product_id": 21,
+  "customer_id": 41,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-09T12:08:34.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6cb"
+  },
+  "review_id": "2a718a0e-b22c-4408-af06-406acdfa6b54",
+  "product_id": 40,
+  "customer_id": 34,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-15T19:57:46.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6cc"
+  },
+  "review_id": "89c2abf1-aaac-46bf-8d2c-97daaa0bb373",
+  "product_id": 11,
+  "customer_id": 128,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-16T21:06:55.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6cd"
+  },
+  "review_id": "870f3862-2831-4ddf-8912-a93cf77ae9b1",
+  "product_id": 42,
+  "customer_id": 133,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-03T10:44:05.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ce"
+  },
+  "review_id": "f9ad66d8-fe02-4495-9788-6a0a87024be4",
+  "product_id": 32,
+  "customer_id": 6,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-15T21:58:57.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6cf"
+  },
+  "review_id": "d961a89f-657f-4e89-a63c-ae591693dfb0",
+  "product_id": 39,
+  "customer_id": 125,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-04-19T08:36:06.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d0"
+  },
+  "review_id": "113be12a-5f74-4e09-8cb7-7f205ad98e5f",
+  "product_id": 2,
+  "customer_id": 45,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-12T21:00:53.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d1"
+  },
+  "review_id": "c186add9-7878-484e-86ed-dc91fb7ebe40",
+  "product_id": 43,
+  "customer_id": 144,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-15T17:14:30.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d2"
+  },
+  "review_id": "5e9a7f9a-69a9-41ff-ad23-4ec3babc93cf",
+  "product_id": 2,
+  "customer_id": 21,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-22T01:16:08.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d3"
+  },
+  "review_id": "0f72c086-7e83-4892-9674-5cda4136f528",
+  "product_id": 10,
+  "customer_id": 3,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-14T10:54:06.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d4"
+  },
+  "review_id": "ca95be97-ecfe-4605-a5e0-f87fc8f94ed3",
+  "product_id": 36,
+  "customer_id": 123,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-26T19:59:46.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d5"
+  },
+  "review_id": "d299d58d-c9a4-44c0-8294-f3a0e0b746fa",
+  "product_id": 21,
+  "customer_id": 142,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-29T23:15:42.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d6"
+  },
+  "review_id": "2f47d541-3872-4493-8613-8eaf75d73b1f",
+  "product_id": 19,
+  "customer_id": 61,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-08-15T23:26:06.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d7"
+  },
+  "review_id": "9ebf93fa-9b0d-41cb-8687-1376c4e4be44",
+  "product_id": 14,
+  "customer_id": 37,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-23T21:37:40.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d8"
+  },
+  "review_id": "0c2b63d8-d60c-4f63-969c-66bf1b892fd0",
+  "product_id": 23,
+  "customer_id": 125,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-14T16:38:40.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6d9"
+  },
+  "review_id": "892595da-475c-4b5b-82dc-06fb86278b1e",
+  "product_id": 5,
+  "customer_id": 3,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-16T07:09:47.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6da"
+  },
+  "review_id": "ba35d3e7-e711-4ac9-91a8-219fc1e07e98",
+  "product_id": 35,
+  "customer_id": 121,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-03T14:30:46.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6db"
+  },
+  "review_id": "18c98371-84af-4d2f-b440-8622f67336aa",
+  "product_id": 2,
+  "customer_id": 140,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-01T23:29:45.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6dc"
+  },
+  "review_id": "454a115a-0c7a-4d5e-9e8b-3ffe9f7ad6df",
+  "product_id": 11,
+  "customer_id": 113,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-22T08:13:44.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6dd"
+  },
+  "review_id": "273cbc57-4451-4394-893a-92409641a6b5",
+  "product_id": 39,
+  "customer_id": 88,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-20T07:04:59.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6de"
+  },
+  "review_id": "e92d5aff-b338-4208-95e6-f28b70d30be2",
+  "product_id": 48,
+  "customer_id": 11,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-18T05:16:34.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6df"
+  },
+  "review_id": "86035ad6-a260-45ef-9f98-f69d9268fbc8",
+  "product_id": 29,
+  "customer_id": 7,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-29T13:59:45.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e0"
+  },
+  "review_id": "7a8ff229-61a3-433e-8811-c841e10848a1",
+  "product_id": 7,
+  "customer_id": 35,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-15T07:38:00.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e1"
+  },
+  "review_id": "0898ce52-58d1-4d2f-b195-a9473cc5f82a",
+  "product_id": 42,
+  "customer_id": 100,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-30T19:27:36.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e2"
+  },
+  "review_id": "9a303977-e71a-4d13-bb3d-141a2715b29a",
+  "product_id": 15,
+  "customer_id": 115,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-21T12:20:43.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e3"
+  },
+  "review_id": "87d69a8e-7893-4b72-9f77-826e4170f7ec",
+  "product_id": 45,
+  "customer_id": 148,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-14T22:23:29.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e4"
+  },
+  "review_id": "7b5b9785-b57b-43a3-ab18-2bb4df31e41d",
+  "product_id": 7,
+  "customer_id": 27,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-16T11:46:29.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e5"
+  },
+  "review_id": "dbaa527a-2299-4e24-b88d-ce1aeeda99b4",
+  "product_id": 32,
+  "customer_id": 70,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-31T05:29:33.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e6"
+  },
+  "review_id": "aed3b39a-435c-4833-a994-d43bf45c0670",
+  "product_id": 16,
+  "customer_id": 68,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-11T17:17:54.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e7"
+  },
+  "review_id": "e8bb3a59-802b-4fc8-b68b-314b4907b458",
+  "product_id": 27,
+  "customer_id": 75,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-14T22:01:26.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e8"
+  },
+  "review_id": "02367c6c-61f4-4b8e-9aa9-7a1c7f74df6b",
+  "product_id": 13,
+  "customer_id": 56,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-18T10:28:06.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6e9"
+  },
+  "review_id": "576ad8e9-0a62-4279-8577-a2c2292d944c",
+  "product_id": 11,
+  "customer_id": 4,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-24T00:26:22.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ea"
+  },
+  "review_id": "10816605-6803-4a4c-b6f2-abdd8bab2ead",
+  "product_id": 50,
+  "customer_id": 133,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-25T00:42:49.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6eb"
+  },
+  "review_id": "be49b1fb-6a0d-4ec8-9a6a-96860a6c37d3",
+  "product_id": 24,
+  "customer_id": 60,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-08T21:09:52.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ec"
+  },
+  "review_id": "81edf7da-faf3-466b-9318-ce0958b3ba18",
+  "product_id": 8,
+  "customer_id": 67,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-19T16:53:51.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ed"
+  },
+  "review_id": "d7a7aeeb-82fe-4b4d-84d3-22c1586fd229",
+  "product_id": 10,
+  "customer_id": 8,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-09T07:32:02.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ee"
+  },
+  "review_id": "34cab7fc-9d99-4a1d-bf88-d43141243705",
+  "product_id": 26,
+  "customer_id": 101,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-31T16:02:58.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ef"
+  },
+  "review_id": "f139606c-9690-4e53-8edb-d8ff135ceecd",
+  "product_id": 11,
+  "customer_id": 105,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-08T21:00:28.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f0"
+  },
+  "review_id": "90ef0612-a0c8-43ad-9d28-67d13fdb2e06",
+  "product_id": 29,
+  "customer_id": 87,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-22T15:39:29.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f1"
+  },
+  "review_id": "a4dc8948-ab52-413b-9b6a-fafb3fd93f05",
+  "product_id": 38,
+  "customer_id": 24,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-25T04:21:49.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f2"
+  },
+  "review_id": "b04e64e3-911e-4e37-b4e2-ed45f78736be",
+  "product_id": 7,
+  "customer_id": 54,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-07T19:35:04.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f3"
+  },
+  "review_id": "9408c510-4f05-4d20-85bd-3241f69932ee",
+  "product_id": 45,
+  "customer_id": 92,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-10-07T21:31:48.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f4"
+  },
+  "review_id": "92acc950-a4a7-4ed0-aa0d-f47568a9ee05",
+  "product_id": 19,
+  "customer_id": 25,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-12T10:17:33.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f5"
+  },
+  "review_id": "1d5c9ea2-3245-4c19-99de-fb707ded9130",
+  "product_id": 46,
+  "customer_id": 26,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-01T03:56:52.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f6"
+  },
+  "review_id": "e775d7c9-06bc-49c1-bcc8-ebfa025336f7",
+  "product_id": 18,
+  "customer_id": 14,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-13T11:15:28.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f7"
+  },
+  "review_id": "0f7bca5a-9319-4c85-9417-7403f2006ccf",
+  "product_id": 14,
+  "customer_id": 109,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-25T23:50:37.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f8"
+  },
+  "review_id": "79ac1a4a-5a0b-42e8-8a6b-0d39c62010e3",
+  "product_id": 24,
+  "customer_id": 81,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-21T20:28:55.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6f9"
+  },
+  "review_id": "682687e6-8beb-4ba7-958b-31bcce9661c0",
+  "product_id": 5,
+  "customer_id": 126,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-24T13:32:24.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6fa"
+  },
+  "review_id": "ee9c6e5f-d305-454a-a782-8776689ac6ce",
+  "product_id": 37,
+  "customer_id": 91,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-05T18:43:29.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6fb"
+  },
+  "review_id": "e46b32cd-9d47-4ddf-b072-08c5242a48c9",
+  "product_id": 40,
+  "customer_id": 112,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-20T17:12:39.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6fc"
+  },
+  "review_id": "73673807-5941-4d92-ad2e-189e50179f37",
+  "product_id": 24,
+  "customer_id": 64,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-27T10:44:55.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6fd"
+  },
+  "review_id": "1b045edf-e974-41c7-91a2-b32cde0bc701",
+  "product_id": 46,
+  "customer_id": 102,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-13T09:44:23.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6fe"
+  },
+  "review_id": "e89ee0ba-14ad-4981-9a58-d35f6c77e33e",
+  "product_id": 34,
+  "customer_id": 130,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-26T14:25:38.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e6ff"
+  },
+  "review_id": "11265269-71d8-4241-8a84-c0ef9dd745b4",
+  "product_id": 32,
+  "customer_id": 70,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-19T23:24:34.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e700"
+  },
+  "review_id": "5bccb244-acf0-4bfb-8931-d52cb8f3338b",
+  "product_id": 4,
+  "customer_id": 53,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-09-13T08:47:41.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e701"
+  },
+  "review_id": "94ccad8d-d13a-4e02-9669-3c6343597ffa",
+  "product_id": 27,
+  "customer_id": 41,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-14T17:36:33.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e702"
+  },
+  "review_id": "36684e65-e0c6-4925-8783-f999fdb5c7e7",
+  "product_id": 50,
+  "customer_id": 68,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-22T00:27:23.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e703"
+  },
+  "review_id": "458f75ac-9303-4759-adee-e2dc1871b142",
+  "product_id": 11,
+  "customer_id": 39,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-09T06:05:04.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e704"
+  },
+  "review_id": "6367eb71-b48c-4d00-ae2f-eaef70aeb2d2",
+  "product_id": 1,
+  "customer_id": 76,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-27T20:30:05.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e705"
+  },
+  "review_id": "e795e607-7c69-48af-973c-b00df5cdb23b",
+  "product_id": 28,
+  "customer_id": 95,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-23T14:09:37.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e706"
+  },
+  "review_id": "31300f7d-8e77-4515-9608-c533dadee483",
+  "product_id": 27,
+  "customer_id": 54,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-18T19:39:09.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e707"
+  },
+  "review_id": "7d834ad7-626e-4d1f-ba14-61f78b7299b0",
+  "product_id": 10,
+  "customer_id": 25,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-22T08:12:07.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e708"
+  },
+  "review_id": "ddfefb1c-306a-4b80-a58e-b7413db5fc7e",
+  "product_id": 38,
+  "customer_id": 73,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-19T01:55:56.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e709"
+  },
+  "review_id": "17955a03-0951-4027-aa20-421752606d31",
+  "product_id": 12,
+  "customer_id": 25,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-06T06:45:56.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e70a"
+  },
+  "review_id": "01bfadbf-dfdd-47d5-b6b8-54cf5c10123c",
+  "product_id": 1,
+  "customer_id": 136,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-05T21:20:56.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e70b"
+  },
+  "review_id": "0e8d7a1e-c11c-4d63-b87f-f84da06eb5cf",
+  "product_id": 27,
+  "customer_id": 143,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-27T08:59:16.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e70c"
+  },
+  "review_id": "90ca5a00-ddf9-40f0-a34e-541f985b44ac",
+  "product_id": 23,
+  "customer_id": 104,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-23T12:45:20.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e70d"
+  },
+  "review_id": "ef15cb31-a320-4508-81d6-d6379722a510",
+  "product_id": 18,
+  "customer_id": 131,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-22T04:51:15.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e70e"
+  },
+  "review_id": "3643e2fb-acc5-47db-955d-e88c5db1a38d",
+  "product_id": 47,
+  "customer_id": 120,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-04-03T22:57:12.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e70f"
+  },
+  "review_id": "b07416e9-5446-4c5a-baa9-f77fadc55732",
+  "product_id": 16,
+  "customer_id": 118,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-31T06:15:53.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e710"
+  },
+  "review_id": "3fdc8522-7272-473b-a266-78f628524b54",
+  "product_id": 29,
+  "customer_id": 54,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-04T01:48:01.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e711"
+  },
+  "review_id": "c8debd48-5312-42c0-abe7-7cf740e6624e",
+  "product_id": 35,
+  "customer_id": 34,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-10T01:05:56.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e712"
+  },
+  "review_id": "0959692e-1a17-464f-b791-01237695cf44",
+  "product_id": 39,
+  "customer_id": 23,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-27T01:52:56.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e713"
+  },
+  "review_id": "7130a364-aa39-4521-a5da-34c011c41e7f",
+  "product_id": 27,
+  "customer_id": 53,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-07T05:00:15.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e714"
+  },
+  "review_id": "7261374b-e6d7-4d34-a468-18d7a7ccce2f",
+  "product_id": 26,
+  "customer_id": 73,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-05T01:17:54.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e715"
+  },
+  "review_id": "7e44e359-edb7-4c07-be4a-1604d5e57d77",
+  "product_id": 43,
+  "customer_id": 26,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-29T04:47:13.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e716"
+  },
+  "review_id": "8877def9-e25c-4cd0-981f-b98ce8fe6697",
+  "product_id": 50,
+  "customer_id": 116,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-26T06:33:23.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e717"
+  },
+  "review_id": "a6697c0a-d2a1-48a4-9a4c-80f98ff462b6",
+  "product_id": 36,
+  "customer_id": 118,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-12T05:55:53.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e718"
+  },
+  "review_id": "c791c7aa-5ce1-4a60-9742-9581b9deb9be",
+  "product_id": 46,
+  "customer_id": 99,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-08T19:51:52.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e719"
+  },
+  "review_id": "acbdf930-22ef-4969-8570-4a0b335c80ba",
+  "product_id": 38,
+  "customer_id": 124,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-13T16:31:01.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e71a"
+  },
+  "review_id": "ff4e58a1-6ef7-42fa-94ff-26437e8d3ecf",
+  "product_id": 32,
+  "customer_id": 21,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-22T04:43:03.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e71b"
+  },
+  "review_id": "ba8414ab-2b76-405b-8b90-00fdc9cc6eed",
+  "product_id": 8,
+  "customer_id": 1,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-05T20:09:52.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e71c"
+  },
+  "review_id": "101c4443-88aa-4e95-a162-88b9be881ba0",
+  "product_id": 33,
+  "customer_id": 46,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-26T07:30:06.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e71d"
+  },
+  "review_id": "78abd929-e20d-4c1d-b684-4e8b444d452e",
+  "product_id": 14,
+  "customer_id": 51,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-24T13:06:39.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e71e"
+  },
+  "review_id": "735f1505-6c8c-4f86-8ecb-aecd273f8304",
+  "product_id": 34,
+  "customer_id": 73,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-16T19:13:02.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e71f"
+  },
+  "review_id": "0217e9f1-9f31-44c3-a2d5-37819f213711",
+  "product_id": 43,
+  "customer_id": 104,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-22T05:54:50.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e720"
+  },
+  "review_id": "876c2879-01af-446c-a105-9d30f156e665",
+  "product_id": 40,
+  "customer_id": 25,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-07T02:33:43.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e721"
+  },
+  "review_id": "413c574e-f20f-46c2-8925-6a0c98bda414",
+  "product_id": 4,
+  "customer_id": 109,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-14T16:21:28.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e722"
+  },
+  "review_id": "6c8a82d6-e5c9-4f08-96d8-91ed2f95d4e2",
+  "product_id": 13,
+  "customer_id": 57,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-21T09:25:11.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e723"
+  },
+  "review_id": "c5746f0f-f7fa-440e-b651-cfaefebc5b83",
+  "product_id": 32,
+  "customer_id": 116,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-12-27T19:13:15.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e724"
+  },
+  "review_id": "83e3cd68-1ca8-44be-929b-9394037e155f",
+  "product_id": 1,
+  "customer_id": 124,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-22T06:19:45.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e725"
+  },
+  "review_id": "36e2a1fa-e742-4a8d-beca-1df707bdb871",
+  "product_id": 30,
+  "customer_id": 121,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-27T01:23:45.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e726"
+  },
+  "review_id": "dfe50c1c-eeea-4650-ac39-aee4f0c8a477",
+  "product_id": 38,
+  "customer_id": 1,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-20T21:23:26.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e727"
+  },
+  "review_id": "092a4362-7979-4685-a346-9c15251f2e40",
+  "product_id": 13,
+  "customer_id": 18,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-12T17:09:43.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e728"
+  },
+  "review_id": "579cb9b2-be33-41e9-887b-6dda91da8525",
+  "product_id": 18,
+  "customer_id": 125,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-22T17:57:16.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e729"
+  },
+  "review_id": "25a462a7-54b3-46fa-9c84-ac9e600bbaea",
+  "product_id": 12,
+  "customer_id": 21,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-25T06:47:17.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e72a"
+  },
+  "review_id": "9673b9dc-175a-48b6-b555-038871a9c395",
+  "product_id": 46,
+  "customer_id": 43,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-19T16:30:13.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e72b"
+  },
+  "review_id": "7f08cee5-6c7a-487e-9fc1-facbd649923b",
+  "product_id": 2,
+  "customer_id": 66,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-13T03:07:39.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e72c"
+  },
+  "review_id": "5e9e46dd-1009-491c-a90a-4c53d667ef43",
+  "product_id": 19,
+  "customer_id": 120,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-19T22:18:06.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e72d"
+  },
+  "review_id": "9a3376a7-ed05-4427-b0d2-52b4617e61f0",
+  "product_id": 22,
+  "customer_id": 139,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-10-10T11:33:20.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e72e"
+  },
+  "review_id": "ff6893a9-8d29-436d-80fa-6e0c58259c78",
+  "product_id": 28,
+  "customer_id": 19,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-17T03:39:04.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e72f"
+  },
+  "review_id": "a42ca955-0373-46f8-8cdf-47671831ee69",
+  "product_id": 4,
+  "customer_id": 51,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-04-22T15:56:56.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e730"
+  },
+  "review_id": "5c1dcaf4-9ee8-45e3-a028-f7bac732089a",
+  "product_id": 26,
+  "customer_id": 25,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-20T06:06:48.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e731"
+  },
+  "review_id": "a0f0976a-a4b9-4554-afdd-a2c7ec3afae4",
+  "product_id": 30,
+  "customer_id": 78,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-14T14:27:43.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e732"
+  },
+  "review_id": "7fb4f05c-e052-4100-8e9f-eebdb2dbd003",
+  "product_id": 28,
+  "customer_id": 124,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-12T12:45:54.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e733"
+  },
+  "review_id": "21c0629f-236d-45c3-afc5-cb6c9c7ed5dd",
+  "product_id": 34,
+  "customer_id": 50,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-14T11:20:04.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e734"
+  },
+  "review_id": "54095225-98cd-4b2b-845d-dd7c8511be02",
+  "product_id": 39,
+  "customer_id": 131,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-12T05:26:30.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e735"
+  },
+  "review_id": "8a494973-4b5c-4110-9f72-d6e86a62d5cd",
+  "product_id": 47,
+  "customer_id": 2,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-26T04:52:26.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e736"
+  },
+  "review_id": "fe65a3f5-e59f-40cc-8a33-0f6d928d4501",
+  "product_id": 49,
+  "customer_id": 8,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-05T11:26:27.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e737"
+  },
+  "review_id": "1e62975f-5d80-4ab4-9538-c5dfa3c0d8a0",
+  "product_id": 18,
+  "customer_id": 130,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-19T14:54:41.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e738"
+  },
+  "review_id": "435aa7e7-8664-4fd8-83e1-6742b2b7504f",
+  "product_id": 48,
+  "customer_id": 107,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-02T12:52:52.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e739"
+  },
+  "review_id": "e6b2d9ae-b45f-47ae-84f4-cdec17fb7d6f",
+  "product_id": 6,
+  "customer_id": 29,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-10T20:21:41.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e73a"
+  },
+  "review_id": "e9cc2bf7-d916-47d0-bdc1-d511748aff69",
+  "product_id": 42,
+  "customer_id": 44,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-24T23:24:57.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e73b"
+  },
+  "review_id": "c4b41d35-25f9-4332-b438-cfc7dde7493a",
+  "product_id": 22,
+  "customer_id": 76,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-25T10:23:19.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e73c"
+  },
+  "review_id": "3edbaf49-c343-4f02-94e7-26450ee5eeed",
+  "product_id": 11,
+  "customer_id": 130,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-21T05:51:49.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e73d"
+  },
+  "review_id": "b0df46ec-4ab6-45d9-ae34-c26bd7a2babc",
+  "product_id": 14,
+  "customer_id": 128,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-09T13:04:34.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e73e"
+  },
+  "review_id": "cd2ec7ac-c8ff-4852-99f0-176e881e0265",
+  "product_id": 32,
+  "customer_id": 103,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-26T06:03:25.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e73f"
+  },
+  "review_id": "69df055c-5502-4ee5-81fb-36ad9d19802d",
+  "product_id": 7,
+  "customer_id": 103,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-30T11:41:17.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e740"
+  },
+  "review_id": "ce9fbb82-632d-4e0b-a31b-235545610b14",
+  "product_id": 48,
+  "customer_id": 88,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-12T06:02:57.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e741"
+  },
+  "review_id": "4ac23a2f-90fc-4e68-b78e-4c11b15885ce",
+  "product_id": 7,
+  "customer_id": 124,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-16T07:23:36.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e742"
+  },
+  "review_id": "a36ba834-833f-4a9b-9016-f9eceed27161",
+  "product_id": 32,
+  "customer_id": 52,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-04-17T16:20:12.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e743"
+  },
+  "review_id": "2e551e8f-64e5-4590-9cfd-43f695674e92",
+  "product_id": 47,
+  "customer_id": 16,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-29T07:54:44.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e744"
+  },
+  "review_id": "ba8bba99-e534-4b4d-b560-3ff76f01c85f",
+  "product_id": 47,
+  "customer_id": 129,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-09T00:24:36.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e745"
+  },
+  "review_id": "eb9de42a-9dd9-4920-83e8-0d35c79c6f2a",
+  "product_id": 31,
+  "customer_id": 88,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-12-09T07:38:25.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e746"
+  },
+  "review_id": "438b2ebc-4c92-45ae-bbcb-c39e7bde14c7",
+  "product_id": 43,
+  "customer_id": 19,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-09T02:41:35.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e747"
+  },
+  "review_id": "e1e5391d-295a-48d5-abd1-65a54393e751",
+  "product_id": 19,
+  "customer_id": 27,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-09T19:26:22.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e748"
+  },
+  "review_id": "1a936088-cad0-4b49-8227-a2c7eafb2c27",
+  "product_id": 26,
+  "customer_id": 7,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-26T00:48:30.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e749"
+  },
+  "review_id": "8cc9ac58-7699-44b9-9a67-21f52ad0bb8c",
+  "product_id": 12,
+  "customer_id": 71,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-05T09:59:38.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e74a"
+  },
+  "review_id": "b6c02ece-18ca-4c72-9147-e41534bb1bd4",
+  "product_id": 47,
+  "customer_id": 119,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-18T19:16:45.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e74b"
+  },
+  "review_id": "7ea6b765-d031-49ea-8515-bc51e9387992",
+  "product_id": 41,
+  "customer_id": 34,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-12T01:03:33.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e74c"
+  },
+  "review_id": "38da8087-41fa-49cc-b9f8-3e9c1ef1a33a",
+  "product_id": 4,
+  "customer_id": 20,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-16T19:42:36.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e74d"
+  },
+  "review_id": "ffc9980a-e75e-4171-828f-daf8a69d266b",
+  "product_id": 26,
+  "customer_id": 53,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-23T03:45:35.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e74e"
+  },
+  "review_id": "ac080b1c-9d59-492c-a899-839cd936437b",
+  "product_id": 45,
+  "customer_id": 4,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-29T16:54:14.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e74f"
+  },
+  "review_id": "f72d43fa-b1b7-460a-9ecd-2971db09c19a",
+  "product_id": 18,
+  "customer_id": 3,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-21T00:30:45.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e750"
+  },
+  "review_id": "b7843b75-3bbf-4653-8b47-036132f76ffa",
+  "product_id": 32,
+  "customer_id": 119,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-09T10:33:30.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e751"
+  },
+  "review_id": "c3701c98-0777-4cc4-b19f-cf16555fa63b",
+  "product_id": 45,
+  "customer_id": 73,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-05T15:30:07.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e752"
+  },
+  "review_id": "de4cb85a-9f4e-4c12-8dd9-da5797306639",
+  "product_id": 9,
+  "customer_id": 93,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-01T06:43:59.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e753"
+  },
+  "review_id": "1d7171fb-4fba-4918-8c33-bedbc3f8064b",
+  "product_id": 44,
+  "customer_id": 92,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-02T04:06:23.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e754"
+  },
+  "review_id": "280c3459-f611-41a8-a8da-8c715a3a5b97",
+  "product_id": 7,
+  "customer_id": 99,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-12T01:27:44.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e755"
+  },
+  "review_id": "b2f4fd29-6d2a-460e-8f6d-e834bf76cb81",
+  "product_id": 22,
+  "customer_id": 57,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-01T08:31:40.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e756"
+  },
+  "review_id": "83b54d73-6ba2-4700-8ae2-706fda4d1d5e",
+  "product_id": 45,
+  "customer_id": 85,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-03T20:17:02.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e757"
+  },
+  "review_id": "99fb549a-ba9b-4836-a92e-ea6c3447e8b1",
+  "product_id": 50,
+  "customer_id": 53,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-26T10:30:26.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e758"
+  },
+  "review_id": "057a3001-29c0-452c-be7c-873f5563ceea",
+  "product_id": 28,
+  "customer_id": 124,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-08T17:41:10.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e759"
+  },
+  "review_id": "645228a8-9b69-4cb0-89a9-5c69849d7252",
+  "product_id": 18,
+  "customer_id": 139,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-04-27T09:36:46.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e75a"
+  },
+  "review_id": "15ad19e7-ac33-4226-b40c-a41ccf47f79e",
+  "product_id": 13,
+  "customer_id": 14,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-24T22:01:12.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e75b"
+  },
+  "review_id": "2b032480-5ee1-4ea9-ba0a-92c7b6064302",
+  "product_id": 3,
+  "customer_id": 49,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-28T09:30:05.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e75c"
+  },
+  "review_id": "90ef608c-16b5-49f7-96d1-b1817ad1e5a9",
+  "product_id": 19,
+  "customer_id": 16,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-07T19:52:32.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e75d"
+  },
+  "review_id": "29485f7b-2b05-4018-89c6-054b16d5526a",
+  "product_id": 14,
+  "customer_id": 72,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-08-10T02:30:45.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e75e"
+  },
+  "review_id": "d90fac4c-246c-4966-b459-4a3c37618b30",
+  "product_id": 13,
+  "customer_id": 51,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-18T16:02:53.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e75f"
+  },
+  "review_id": "d3f86643-b3b6-4962-9b9a-53cb091362f6",
+  "product_id": 28,
+  "customer_id": 74,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-16T08:22:51.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e760"
+  },
+  "review_id": "08b72965-c853-4e73-9798-d1ebbcd76b60",
+  "product_id": 39,
+  "customer_id": 140,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-17T19:09:05.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e761"
+  },
+  "review_id": "2fcd8abe-8d2b-4456-85e7-bb87b2b771fc",
+  "product_id": 27,
+  "customer_id": 25,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-06T03:05:49.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e762"
+  },
+  "review_id": "37948e10-b531-45d0-9ffc-863dc33a444f",
+  "product_id": 41,
+  "customer_id": 19,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-14T14:16:51.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e763"
+  },
+  "review_id": "30a4b2ae-325e-4320-8b68-e6aa1616530e",
+  "product_id": 28,
+  "customer_id": 1,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-05T23:58:28.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e764"
+  },
+  "review_id": "2d837df2-808b-41a3-8d6d-104cc043c7fb",
+  "product_id": 35,
+  "customer_id": 15,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-03T00:18:59.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e765"
+  },
+  "review_id": "c613d4f7-8a93-4ee5-8c6a-aab84dc3ee70",
+  "product_id": 2,
+  "customer_id": 1,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-21T17:44:48.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e766"
+  },
+  "review_id": "42f5fe96-a8b5-4a68-bbfe-fbabdc818f3e",
+  "product_id": 13,
+  "customer_id": 66,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-13T15:25:19.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e767"
+  },
+  "review_id": "7ec748ed-f2a5-437e-afc3-51b3138c15b0",
+  "product_id": 23,
+  "customer_id": 20,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-31T16:44:00.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e768"
+  },
+  "review_id": "6282eba0-15e8-42b2-a22d-2c3f7d49bb42",
+  "product_id": 3,
+  "customer_id": 6,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-26T16:30:24.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e769"
+  },
+  "review_id": "3cd653aa-c7d0-4c80-b7e1-13a7f9438b4c",
+  "product_id": 40,
+  "customer_id": 136,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-05T03:00:36.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e76a"
+  },
+  "review_id": "078f2b95-ca66-4460-8e27-0b82738b2a18",
+  "product_id": 13,
+  "customer_id": 125,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-19T09:51:21.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e76b"
+  },
+  "review_id": "8ac6e2db-b5a6-4bfc-98e7-c09ad94765eb",
+  "product_id": 46,
+  "customer_id": 73,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-24T09:36:07.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e76c"
+  },
+  "review_id": "3b578ae7-7015-4650-b814-01550dfe1d40",
+  "product_id": 15,
+  "customer_id": 14,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-13T15:03:34.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e76d"
+  },
+  "review_id": "d143f10b-f731-4b63-adcc-dd1f857a56ed",
+  "product_id": 25,
+  "customer_id": 101,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-19T02:36:21.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e76e"
+  },
+  "review_id": "0732defd-c05d-409f-bf25-4773263fc47b",
+  "product_id": 45,
+  "customer_id": 149,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-04T03:32:08.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e76f"
+  },
+  "review_id": "a38389c3-542a-4f1f-9695-596feaa8f2ee",
+  "product_id": 21,
+  "customer_id": 93,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-14T23:15:57.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e770"
+  },
+  "review_id": "357488fb-16c6-42a1-bff6-11f8f444adcb",
+  "product_id": 32,
+  "customer_id": 149,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-10T18:59:32.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e771"
+  },
+  "review_id": "f05d57ed-5def-4924-b4cd-7cc2def0401a",
+  "product_id": 30,
+  "customer_id": 19,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-29T13:06:19.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e772"
+  },
+  "review_id": "e165249e-bc47-40df-810f-42bb8b05ff48",
+  "product_id": 16,
+  "customer_id": 146,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-12T01:22:57.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e773"
+  },
+  "review_id": "a1831a71-c15c-4918-b64d-5625a338ac3e",
+  "product_id": 41,
+  "customer_id": 98,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-21T21:59:22.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e774"
+  },
+  "review_id": "e3ff9e85-e44a-4ad0-ad07-fcf9f3e3f5de",
+  "product_id": 26,
+  "customer_id": 14,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-02T22:56:28.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e775"
+  },
+  "review_id": "d906356f-528d-4044-b01f-138e1ab908d6",
+  "product_id": 41,
+  "customer_id": 13,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-29T00:39:44.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e776"
+  },
+  "review_id": "71046938-03c3-44ff-8a74-eba3a9b637c1",
+  "product_id": 1,
+  "customer_id": 86,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-06T23:05:17.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e777"
+  },
+  "review_id": "011814ce-fdfa-48aa-aab0-bcbc80f39f0e",
+  "product_id": 5,
+  "customer_id": 107,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-11T15:52:35.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e778"
+  },
+  "review_id": "dc53a1cc-597b-4613-8c2e-89aacc76f5d9",
+  "product_id": 1,
+  "customer_id": 10,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-24T03:44:46.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e779"
+  },
+  "review_id": "394ac9ee-3c9c-400e-8239-ee829fb2ebc8",
+  "product_id": 37,
+  "customer_id": 97,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-25T08:45:51.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e77a"
+  },
+  "review_id": "aaf2ede3-c292-4c6b-9e49-26792bdab87d",
+  "product_id": 47,
+  "customer_id": 115,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-15T15:50:35.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e77b"
+  },
+  "review_id": "7ea89404-66c7-44d0-ac92-fa1f8435772b",
+  "product_id": 13,
+  "customer_id": 6,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-09T03:48:40.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e77c"
+  },
+  "review_id": "ff4b4b57-3e3f-4902-b808-1af3a844dc63",
+  "product_id": 8,
+  "customer_id": 34,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-25T20:59:47.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e77d"
+  },
+  "review_id": "5b49443f-a2eb-4e52-8a27-16f099c519b6",
+  "product_id": 17,
+  "customer_id": 13,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-09T21:02:00.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e77e"
+  },
+  "review_id": "1c977071-6405-4666-b42c-58c5b755dc1d",
+  "product_id": 27,
+  "customer_id": 45,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-12T22:38:52.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e77f"
+  },
+  "review_id": "8df7190e-ae0d-4112-8537-09b129d55024",
+  "product_id": 29,
+  "customer_id": 56,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-13T02:55:06.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e780"
+  },
+  "review_id": "3a9f39b3-8956-4d59-9505-534ab5f75809",
+  "product_id": 9,
+  "customer_id": 39,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-20T20:09:57.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e781"
+  },
+  "review_id": "ba77c1c4-3ae5-47ae-9199-f8f7f5bfd871",
+  "product_id": 49,
+  "customer_id": 12,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-14T18:44:55.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e782"
+  },
+  "review_id": "d7cb1f25-45bb-480d-85be-48deb062be4e",
+  "product_id": 3,
+  "customer_id": 105,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-21T18:04:23.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e783"
+  },
+  "review_id": "382caab8-24fa-4c40-94c2-660af4742fce",
+  "product_id": 19,
+  "customer_id": 75,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-24T09:43:34.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e784"
+  },
+  "review_id": "b178fa62-2ae4-48cf-8f6e-ab0c91378b50",
+  "product_id": 41,
+  "customer_id": 106,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-12T07:59:22.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e785"
+  },
+  "review_id": "4d9eb3c7-a1aa-4c09-ace7-bf0953535053",
+  "product_id": 38,
+  "customer_id": 133,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-07T23:21:05.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e786"
+  },
+  "review_id": "63c51c33-082f-4748-8f49-9e67cc58b071",
+  "product_id": 23,
+  "customer_id": 122,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-13T14:55:36.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e787"
+  },
+  "review_id": "d4981846-3a9c-430d-8830-6bea5620f343",
+  "product_id": 50,
+  "customer_id": 47,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-19T16:01:29.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e788"
+  },
+  "review_id": "68095c07-61c8-449e-b9e4-c949119134c4",
+  "product_id": 17,
+  "customer_id": 72,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-18T20:11:19.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e789"
+  },
+  "review_id": "63f9446c-6cc2-48cc-a6fe-befeaf5074df",
+  "product_id": 18,
+  "customer_id": 89,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-27T16:57:57.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e78a"
+  },
+  "review_id": "f27ffe5c-79d0-4cad-8a39-ec234026e40c",
+  "product_id": 31,
+  "customer_id": 104,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-31T13:47:50.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e78b"
+  },
+  "review_id": "782c5fdd-12a7-4866-9704-ada551edaa67",
+  "product_id": 28,
+  "customer_id": 84,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-25T20:39:31.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e78c"
+  },
+  "review_id": "21c21d4d-9f7b-4ffb-bb56-d55ffad02e0b",
+  "product_id": 18,
+  "customer_id": 14,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-22T10:13:58.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e78d"
+  },
+  "review_id": "80ae6125-9a4e-40ea-b361-a3d2c4ddf151",
+  "product_id": 47,
+  "customer_id": 129,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-10T13:38:04.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e78e"
+  },
+  "review_id": "d6bb99dd-3c17-4829-abae-c36315e03c3c",
+  "product_id": 36,
+  "customer_id": 95,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-25T19:03:47.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e78f"
+  },
+  "review_id": "701bbfb3-60c9-49c5-af8f-3f2788c4ea08",
+  "product_id": 49,
+  "customer_id": 84,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-21T12:21:00.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e790"
+  },
+  "review_id": "21d19bb9-9027-4403-bfc0-b2914a498a96",
+  "product_id": 49,
+  "customer_id": 11,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-04T15:08:03.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e791"
+  },
+  "review_id": "434a4a6f-63d0-4133-82c1-2abeaa5c9b5e",
+  "product_id": 4,
+  "customer_id": 64,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-04-29T06:52:47.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e792"
+  },
+  "review_id": "95a02145-b50e-46fa-8157-11b85a3dedcd",
+  "product_id": 24,
+  "customer_id": 66,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-23T04:33:17.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e793"
+  },
+  "review_id": "a1c5b284-51c1-440c-83b6-c02f3bba243f",
+  "product_id": 39,
+  "customer_id": 56,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-26T23:16:38.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e794"
+  },
+  "review_id": "b98d385c-b962-435a-b208-a65a4fe59d97",
+  "product_id": 5,
+  "customer_id": 78,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-11T12:41:22.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e795"
+  },
+  "review_id": "d9938315-baff-4e66-a27e-827c1cd0d646",
+  "product_id": 45,
+  "customer_id": 131,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-07T03:35:14.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e796"
+  },
+  "review_id": "e2c85332-d92b-44c0-bf8f-3d7cbbc1d5f4",
+  "product_id": 7,
+  "customer_id": 66,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-15T18:38:43.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e797"
+  },
+  "review_id": "10bcdbaf-bacc-4f4e-9082-6f1c8c473b99",
+  "product_id": 24,
+  "customer_id": 133,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-01T04:19:11.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e798"
+  },
+  "review_id": "d5101927-cede-4c0b-a8c1-61219c8ff780",
+  "product_id": 20,
+  "customer_id": 61,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-16T19:18:08.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e799"
+  },
+  "review_id": "7654f1a0-3f70-459c-b4a4-d0966d7193b3",
+  "product_id": 42,
+  "customer_id": 11,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-08T00:29:59.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e79a"
+  },
+  "review_id": "5c04240a-9822-4ae4-bf94-521ebcd3f46d",
+  "product_id": 33,
+  "customer_id": 11,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-30T18:46:26.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e79b"
+  },
+  "review_id": "25bffe1a-8e0c-4a2b-9a1d-e657aef02d38",
+  "product_id": 21,
+  "customer_id": 31,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-22T22:30:06.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e79c"
+  },
+  "review_id": "0df98e9a-2fee-4b13-95e5-0be0eb9ab038",
+  "product_id": 21,
+  "customer_id": 123,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-12T02:04:03.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e79d"
+  },
+  "review_id": "e50332ae-3a06-4fa4-bdb7-53dd928ad615",
+  "product_id": 12,
+  "customer_id": 83,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-05T19:16:18.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e79e"
+  },
+  "review_id": "e6a99fe7-a4ae-4cca-af02-ac893bf8942b",
+  "product_id": 12,
+  "customer_id": 22,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-12T06:03:36.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e79f"
+  },
+  "review_id": "4f40d671-bdb9-4cba-9fb1-0a533752687d",
+  "product_id": 44,
+  "customer_id": 107,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-15T23:57:03.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a0"
+  },
+  "review_id": "d742c52e-56dc-4533-a82b-5b07fd0c3ce3",
+  "product_id": 35,
+  "customer_id": 115,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-11T05:25:59.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a1"
+  },
+  "review_id": "2abf6d2a-b3d6-4476-af0d-53f890f1fd7f",
+  "product_id": 42,
+  "customer_id": 5,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-20T23:07:10.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a2"
+  },
+  "review_id": "2d8ed068-4eca-4416-b66d-e0cca2dc5203",
+  "product_id": 19,
+  "customer_id": 59,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-05T01:17:42.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a3"
+  },
+  "review_id": "f313796e-da68-4418-b5b2-8741213dc7d8",
+  "product_id": 38,
+  "customer_id": 43,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-21T21:52:20.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a4"
+  },
+  "review_id": "7044ac79-2af6-40de-a232-d55b11499cce",
+  "product_id": 17,
+  "customer_id": 95,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-28T03:24:43.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a5"
+  },
+  "review_id": "5778669b-c58d-415e-be8a-8f73918b79d7",
+  "product_id": 18,
+  "customer_id": 51,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-06T13:55:57.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a6"
+  },
+  "review_id": "70069d18-1e0c-414d-9623-18c7a205f804",
+  "product_id": 5,
+  "customer_id": 45,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-29T07:02:54.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a7"
+  },
+  "review_id": "82c6d865-db93-418c-a7de-8ddb39d3b31f",
+  "product_id": 20,
+  "customer_id": 123,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-12T04:56:25.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a8"
+  },
+  "review_id": "3d9c9273-582c-4b82-82cb-9fb7e56b3e15",
+  "product_id": 33,
+  "customer_id": 92,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-27T06:43:41.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7a9"
+  },
+  "review_id": "1f87a268-9114-4d4e-a10a-8fced30454a0",
+  "product_id": 21,
+  "customer_id": 58,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-04-18T20:05:58.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7aa"
+  },
+  "review_id": "fa498540-ce9c-47d2-8218-6bf927cf56e6",
+  "product_id": 10,
+  "customer_id": 146,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-28T02:54:22.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ab"
+  },
+  "review_id": "90284ee1-79dd-441f-95ef-e3bbcceb3184",
+  "product_id": 32,
+  "customer_id": 55,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-01T13:23:57.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ac"
+  },
+  "review_id": "adc5b1eb-8d0d-4a2a-9881-576ca0280add",
+  "product_id": 24,
+  "customer_id": 18,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-15T22:57:08.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ad"
+  },
+  "review_id": "cb3f6d5d-a261-40eb-a568-47af81eda1f9",
+  "product_id": 42,
+  "customer_id": 99,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-09T10:21:46.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ae"
+  },
+  "review_id": "4d02439a-8932-42c4-a903-ae736bf8f2c4",
+  "product_id": 12,
+  "customer_id": 94,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-05T17:42:12.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7af"
+  },
+  "review_id": "0004d7b8-f083-4bc3-b7ca-f086697ca5d1",
+  "product_id": 11,
+  "customer_id": 57,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-04T14:19:52.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b0"
+  },
+  "review_id": "eca5cd68-5f4f-4e7c-a69d-b00cc0fb0343",
+  "product_id": 25,
+  "customer_id": 94,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-27T16:18:34.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b1"
+  },
+  "review_id": "1a9441c8-ad1e-4ce3-9a3b-49d3a65bfd5b",
+  "product_id": 45,
+  "customer_id": 46,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-08T18:06:14.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b2"
+  },
+  "review_id": "65ef6835-64a1-4eff-902f-125a1239e091",
+  "product_id": 34,
+  "customer_id": 47,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-25T16:20:53.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b3"
+  },
+  "review_id": "93b17b3b-accc-421e-b386-a02b8169d673",
+  "product_id": 38,
+  "customer_id": 83,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-05T14:39:38.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b4"
+  },
+  "review_id": "409f3d0d-4e30-444c-87aa-8826e5de0c97",
+  "product_id": 30,
+  "customer_id": 98,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-25T17:09:02.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b5"
+  },
+  "review_id": "3b9fb5ca-9e49-40c1-baa7-3204335482a9",
+  "product_id": 25,
+  "customer_id": 9,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-14T23:21:56.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b6"
+  },
+  "review_id": "cc4fcee1-0a9c-4737-8801-b0c2c4f4cb78",
+  "product_id": 5,
+  "customer_id": 77,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-03T15:48:53.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b7"
+  },
+  "review_id": "9ffaa120-28b4-4942-ad77-8534d1133654",
+  "product_id": 12,
+  "customer_id": 2,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-20T03:49:58.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b8"
+  },
+  "review_id": "e835b8b8-30f3-45c3-9fcc-050350c0338a",
+  "product_id": 25,
+  "customer_id": 132,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-01T08:05:52.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7b9"
+  },
+  "review_id": "256858e7-2745-4dd5-a904-6af02a1651ea",
+  "product_id": 3,
+  "customer_id": 92,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-06T04:46:13.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ba"
+  },
+  "review_id": "d3e10395-a2f9-46ed-b81d-c32fbe2dfc47",
+  "product_id": 33,
+  "customer_id": 87,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-04-06T09:14:48.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7bb"
+  },
+  "review_id": "f0623983-9954-4bd9-989e-4fd160cf377b",
+  "product_id": 46,
+  "customer_id": 126,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-20T11:55:06.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7bc"
+  },
+  "review_id": "2bdeff90-b1b1-4223-9cc5-a4aee47a2304",
+  "product_id": 45,
+  "customer_id": 100,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-26T03:38:27.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7bd"
+  },
+  "review_id": "510c339e-d93d-4453-9e90-414ccbeed87e",
+  "product_id": 17,
+  "customer_id": 25,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-14T03:01:25.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7be"
+  },
+  "review_id": "3b979ca7-d699-4f44-959f-f3d502178b33",
+  "product_id": 18,
+  "customer_id": 107,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-31T07:43:22.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7bf"
+  },
+  "review_id": "2e31fbf6-6304-4b61-81ca-df3046534fe6",
+  "product_id": 47,
+  "customer_id": 29,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-18T20:45:54.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c0"
+  },
+  "review_id": "9cf327de-7732-414f-8ea4-b0446df92a91",
+  "product_id": 47,
+  "customer_id": 66,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-10T20:45:54.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c1"
+  },
+  "review_id": "780a0bb8-e5fc-44f4-b6d9-8d1309c9776b",
+  "product_id": 10,
+  "customer_id": 13,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-25T04:44:58.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c2"
+  },
+  "review_id": "ee9ea91d-aac3-4702-91dd-db43877f8d28",
+  "product_id": 8,
+  "customer_id": 31,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-06T18:15:14.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c3"
+  },
+  "review_id": "9b7c8f18-90b7-4772-b213-96d1b5a4f7ff",
+  "product_id": 25,
+  "customer_id": 59,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-09T14:12:02.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c4"
+  },
+  "review_id": "1150b9d7-50bf-4aa8-ad8a-9656a246e2d7",
+  "product_id": 15,
+  "customer_id": 23,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-16T11:12:42.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c5"
+  },
+  "review_id": "682a0596-b61a-4465-b63e-804bdcc082dc",
+  "product_id": 27,
+  "customer_id": 119,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-02T13:25:29.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c6"
+  },
+  "review_id": "9b5f789e-5191-4cc0-b175-33ab16107830",
+  "product_id": 21,
+  "customer_id": 47,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-05T03:16:57.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c7"
+  },
+  "review_id": "00c8bff6-1d99-4782-92ba-e87a8853fbd9",
+  "product_id": 47,
+  "customer_id": 101,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-27T03:00:26.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c8"
+  },
+  "review_id": "8a98b551-f2f1-4cd2-8dcf-591b02e55f95",
+  "product_id": 37,
+  "customer_id": 118,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-19T12:37:40.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7c9"
+  },
+  "review_id": "af2de53f-1749-479a-88bd-b051caac39bd",
+  "product_id": 48,
+  "customer_id": 74,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-26T21:59:15.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ca"
+  },
+  "review_id": "72aeb020-1db1-4ce1-84ae-bb321a2fd963",
+  "product_id": 23,
+  "customer_id": 13,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-02T14:37:17.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7cb"
+  },
+  "review_id": "43141e7c-328d-4a08-bc5a-5b291b624a92",
+  "product_id": 8,
+  "customer_id": 127,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-13T01:50:09.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7cc"
+  },
+  "review_id": "4cb51b27-c072-4b80-8d0a-77b4d5237f72",
+  "product_id": 1,
+  "customer_id": 25,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-20T23:17:13.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7cd"
+  },
+  "review_id": "bb608f43-06f5-409e-92f8-939e9b363a60",
+  "product_id": 6,
+  "customer_id": 84,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-26T13:25:17.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ce"
+  },
+  "review_id": "6057e95a-fb81-4d58-9f80-78b9932f540b",
+  "product_id": 8,
+  "customer_id": 142,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-19T14:33:48.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7cf"
+  },
+  "review_id": "ce1f5aeb-999b-4bc2-9fb2-345ffb58263d",
+  "product_id": 3,
+  "customer_id": 108,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-09-01T21:57:08.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d0"
+  },
+  "review_id": "2cdc5a81-bd1e-4e4b-a877-c74a19c59196",
+  "product_id": 24,
+  "customer_id": 75,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-07T23:21:15.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d1"
+  },
+  "review_id": "e2c8528a-15ef-4fc3-a303-632b88873cb9",
+  "product_id": 47,
+  "customer_id": 54,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-23T11:12:18.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d2"
+  },
+  "review_id": "559d291c-7498-4a73-bbde-add1e4de1994",
+  "product_id": 41,
+  "customer_id": 60,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-06T21:01:13.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d3"
+  },
+  "review_id": "b1418c2c-35d2-4dde-be74-5376e74369f0",
+  "product_id": 34,
+  "customer_id": 82,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-21T19:59:15.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d4"
+  },
+  "review_id": "cdabd76c-ad84-4052-a039-6e1e3a4aff60",
+  "product_id": 43,
+  "customer_id": 4,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-14T07:46:50.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d5"
+  },
+  "review_id": "e5bf6612-10f2-4be0-a22e-65fd192e3608",
+  "product_id": 1,
+  "customer_id": 150,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-18T10:14:18.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d6"
+  },
+  "review_id": "cb74422c-0fbb-4902-b457-d51bad86e92b",
+  "product_id": 35,
+  "customer_id": 73,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-25T10:55:19.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d7"
+  },
+  "review_id": "b6f03367-f99d-4897-b3c9-ac4642ee1730",
+  "product_id": 36,
+  "customer_id": 145,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-18T05:22:35.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d8"
+  },
+  "review_id": "7c1b20af-0cbb-40d7-8488-b0bdd67777ba",
+  "product_id": 6,
+  "customer_id": 149,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-17T03:00:22.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7d9"
+  },
+  "review_id": "017ceb82-5282-46c1-9b37-e5c742002c4e",
+  "product_id": 7,
+  "customer_id": 99,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-29T18:39:42.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7da"
+  },
+  "review_id": "0877b081-8145-49cc-b78f-a2fa2579c8f5",
+  "product_id": 20,
+  "customer_id": 42,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-13T11:06:51.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7db"
+  },
+  "review_id": "1844ee34-b6b9-48c2-a8ef-b05be559a841",
+  "product_id": 16,
+  "customer_id": 134,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-25T19:39:02.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7dc"
+  },
+  "review_id": "e47b26da-e8aa-4df2-99a6-fb8af13668b5",
+  "product_id": 13,
+  "customer_id": 78,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-02T17:23:51.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7dd"
+  },
+  "review_id": "50b709d7-19b2-4b5c-92bc-e685f0c5005b",
+  "product_id": 50,
+  "customer_id": 138,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-10T23:09:45.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7de"
+  },
+  "review_id": "315db40d-cd77-407b-8278-014604dc07be",
+  "product_id": 46,
+  "customer_id": 10,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-18T13:57:16.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7df"
+  },
+  "review_id": "e81b971f-ccb3-4721-9e97-97f32df2122b",
+  "product_id": 31,
+  "customer_id": 112,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-20T20:50:31.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e0"
+  },
+  "review_id": "31513328-5855-4b59-9364-a1edb07ca9f4",
+  "product_id": 37,
+  "customer_id": 114,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-04-03T14:06:36.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e1"
+  },
+  "review_id": "9a358316-9799-4476-8423-4c8a5235aa6d",
+  "product_id": 45,
+  "customer_id": 87,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-09T09:55:27.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e2"
+  },
+  "review_id": "cf0df006-52f9-4f5e-a523-c076c25e3485",
+  "product_id": 4,
+  "customer_id": 81,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-11T05:53:58.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e3"
+  },
+  "review_id": "d473b4bc-740e-4e34-9777-bf8971073316",
+  "product_id": 35,
+  "customer_id": 124,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-17T02:42:34.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e4"
+  },
+  "review_id": "e4a129b8-92c2-401b-a275-0f373fd9f32b",
+  "product_id": 3,
+  "customer_id": 21,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-26T11:08:54.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e5"
+  },
+  "review_id": "cb3184a6-6d63-4fe7-99c7-8156458be6cf",
+  "product_id": 22,
+  "customer_id": 49,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-14T21:12:22.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e6"
+  },
+  "review_id": "f813b8c2-8765-400e-89d6-b89084bb8609",
+  "product_id": 9,
+  "customer_id": 143,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-02T04:04:32.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e7"
+  },
+  "review_id": "0b179072-3318-413c-aeb1-7a80b8cb514a",
+  "product_id": 10,
+  "customer_id": 8,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-27T23:56:51.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e8"
+  },
+  "review_id": "bc2fd204-4c9e-4661-a4cc-bf459e16812e",
+  "product_id": 27,
+  "customer_id": 95,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-19T06:39:23.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7e9"
+  },
+  "review_id": "dc3e63d3-6ffe-407d-a141-3674fa807258",
+  "product_id": 41,
+  "customer_id": 31,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-07T15:30:44.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ea"
+  },
+  "review_id": "8f78e855-e6fb-4568-af43-452107bae5d0",
+  "product_id": 42,
+  "customer_id": 110,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-23T10:14:43.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7eb"
+  },
+  "review_id": "bef62a62-ea5a-4925-8180-28d179f975d7",
+  "product_id": 33,
+  "customer_id": 64,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-07T19:54:17.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ec"
+  },
+  "review_id": "44bbc9ad-788d-4e6c-bf0b-17af9712d86c",
+  "product_id": 19,
+  "customer_id": 111,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-07T03:52:10.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ed"
+  },
+  "review_id": "d4cf0823-2b2d-473b-862d-d63941ed220b",
+  "product_id": 18,
+  "customer_id": 111,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-05T20:48:00.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ee"
+  },
+  "review_id": "91d7fb0c-989a-4909-bff6-1f6508905a9e",
+  "product_id": 20,
+  "customer_id": 42,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-17T04:01:28.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ef"
+  },
+  "review_id": "db783de4-71ac-441c-9306-4706b056b092",
+  "product_id": 31,
+  "customer_id": 110,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-06T00:45:02.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f0"
+  },
+  "review_id": "2eac5c65-9931-4e94-b5d7-e9fcedac0938",
+  "product_id": 30,
+  "customer_id": 31,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-13T20:37:23.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f1"
+  },
+  "review_id": "7023b085-2a2c-4000-ab20-27567cb9807b",
+  "product_id": 18,
+  "customer_id": 72,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-23T22:08:35.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f2"
+  },
+  "review_id": "71ad9eb3-ff50-4e6b-8828-95cf09a0a9e9",
+  "product_id": 26,
+  "customer_id": 140,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-11T14:04:08.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f3"
+  },
+  "review_id": "677bcecd-df03-4ef7-bae7-53bff3644e26",
+  "product_id": 14,
+  "customer_id": 7,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-01T16:39:45.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f4"
+  },
+  "review_id": "7871575f-3e16-4b75-b613-b73cfb2392e0",
+  "product_id": 14,
+  "customer_id": 83,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-30T15:27:06.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f5"
+  },
+  "review_id": "c1ab172b-1826-4cd3-99a2-608ba5ba0b93",
+  "product_id": 46,
+  "customer_id": 146,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-10T15:45:59.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f6"
+  },
+  "review_id": "5db91280-5c9a-4f5a-86ec-5dbf7bb1e2e1",
+  "product_id": 35,
+  "customer_id": 29,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-19T10:02:10.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f7"
+  },
+  "review_id": "d597aa5b-b0b8-4c90-9c27-75a1a40b5927",
+  "product_id": 14,
+  "customer_id": 149,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-01-15T01:07:59.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f8"
+  },
+  "review_id": "ee64a526-9f6c-4641-9c2c-0b7c1f29a8bc",
+  "product_id": 32,
+  "customer_id": 53,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-19T04:32:05.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7f9"
+  },
+  "review_id": "c93bb253-f78b-4971-9cc4-a1486292c516",
+  "product_id": 50,
+  "customer_id": 33,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-14T15:26:45.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7fa"
+  },
+  "review_id": "5c715ab6-a113-4feb-910a-cfd3daefb361",
+  "product_id": 28,
+  "customer_id": 33,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-09-28T18:58:11.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7fb"
+  },
+  "review_id": "dd90a3d8-ea40-4628-827e-c6efc347ef18",
+  "product_id": 20,
+  "customer_id": 47,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-01T13:38:38.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7fc"
+  },
+  "review_id": "e78627e4-93ef-411d-b677-62b4019d2509",
+  "product_id": 49,
+  "customer_id": 61,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-12T12:55:57.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7fd"
+  },
+  "review_id": "0146d629-c982-4b90-82de-f1aa7e1172f9",
+  "product_id": 2,
+  "customer_id": 77,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-30T14:32:03.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7fe"
+  },
+  "review_id": "43f28291-b336-4a9b-a192-2cc518d09efa",
+  "product_id": 13,
+  "customer_id": 52,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-05T02:34:15.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e7ff"
+  },
+  "review_id": "24842fcb-c71b-4e72-b683-a28c9820f0af",
+  "product_id": 11,
+  "customer_id": 44,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-25T18:30:34.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e800"
+  },
+  "review_id": "e017f184-dd41-4b4b-b089-21479560024a",
+  "product_id": 27,
+  "customer_id": 3,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-09T16:50:48.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e801"
+  },
+  "review_id": "376e5e3d-6658-4b47-b539-7ba924cc3528",
+  "product_id": 1,
+  "customer_id": 28,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-12T04:27:35.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e802"
+  },
+  "review_id": "a5f98982-18d8-4123-9066-e09d6ef66234",
+  "product_id": 29,
+  "customer_id": 89,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-17T00:11:23.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e803"
+  },
+  "review_id": "6c78b0bf-050e-4600-9321-992f36374fbc",
+  "product_id": 12,
+  "customer_id": 27,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-24T00:27:59.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e804"
+  },
+  "review_id": "a36602c6-3afb-4ab1-a198-2116aa1dcecd",
+  "product_id": 32,
+  "customer_id": 73,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-30T07:20:24.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e805"
+  },
+  "review_id": "862c660e-703e-47e3-90c3-232147fb1804",
+  "product_id": 4,
+  "customer_id": 149,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-22T15:30:25.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e806"
+  },
+  "review_id": "c32190cb-2fe3-4d45-b966-3c1a2d28eaae",
+  "product_id": 39,
+  "customer_id": 29,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-01T08:07:29.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e807"
+  },
+  "review_id": "f8f64498-bfef-4b61-a631-a7cf092efd49",
+  "product_id": 33,
+  "customer_id": 23,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-19T16:50:29.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e808"
+  },
+  "review_id": "48cd0b69-08cb-4d93-aac2-93926f2219d8",
+  "product_id": 18,
+  "customer_id": 9,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-15T17:27:05.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e809"
+  },
+  "review_id": "0b1ea3b8-6444-48c1-8cd0-f6095c007a4e",
+  "product_id": 9,
+  "customer_id": 122,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-26T07:12:14.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e80a"
+  },
+  "review_id": "70dbd7bd-c16c-4d05-9637-84ed213c6d0d",
+  "product_id": 34,
+  "customer_id": 7,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-16T04:30:18.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e80b"
+  },
+  "review_id": "7b774818-a0e0-4116-b02b-e9bf57945e46",
+  "product_id": 30,
+  "customer_id": 118,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-27T02:57:27.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e80c"
+  },
+  "review_id": "af00c06e-e4ce-4ffd-b9a1-6a7b1224b1fc",
+  "product_id": 24,
+  "customer_id": 57,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-20T22:24:12.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e80d"
+  },
+  "review_id": "ee3eab99-85f1-4583-af0b-98910ed22255",
+  "product_id": 8,
+  "customer_id": 11,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-11T21:06:08.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e80e"
+  },
+  "review_id": "938a550c-d026-4d48-897c-73f59361712d",
+  "product_id": 12,
+  "customer_id": 79,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-08T14:58:25.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e80f"
+  },
+  "review_id": "0f5dc02d-60a3-4af8-b4fd-65495a60f1a7",
+  "product_id": 19,
+  "customer_id": 147,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-14T13:39:03.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e810"
+  },
+  "review_id": "eedfecc1-7c55-4c36-84e4-c1bf2a03b9b1",
+  "product_id": 9,
+  "customer_id": 25,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-12-30T13:42:53.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e811"
+  },
+  "review_id": "528fe308-916b-43d3-a213-9ca6298f7145",
+  "product_id": 30,
+  "customer_id": 32,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-21T18:57:43.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e812"
+  },
+  "review_id": "4197600e-6aaa-49ff-8137-eb320c0b0cd2",
+  "product_id": 15,
+  "customer_id": 72,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-25T17:36:00.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e813"
+  },
+  "review_id": "cedd6fa2-adb6-4f72-aab7-e58bb5993014",
+  "product_id": 34,
+  "customer_id": 81,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-30T09:18:41.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e814"
+  },
+  "review_id": "3c3757b5-3cb6-4cf0-be82-3c49b61b618a",
+  "product_id": 39,
+  "customer_id": 120,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-30T19:03:54.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e815"
+  },
+  "review_id": "707d9e89-bb3a-4d09-b653-14de7e46e691",
+  "product_id": 32,
+  "customer_id": 95,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-07T12:06:12.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e816"
+  },
+  "review_id": "28622b99-85db-4619-8dfa-442831d43b70",
+  "product_id": 44,
+  "customer_id": 12,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-09T04:39:16.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e817"
+  },
+  "review_id": "640af6c9-1e08-46b2-a1ac-fcc94497e4d8",
+  "product_id": 4,
+  "customer_id": 1,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-08-23T16:44:23.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e818"
+  },
+  "review_id": "c1e995f8-9807-4de7-b284-c509f8470939",
+  "product_id": 31,
+  "customer_id": 94,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-07T18:55:01.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e819"
+  },
+  "review_id": "5f638a75-632a-4fec-8a41-fd3c03428a2f",
+  "product_id": 21,
+  "customer_id": 105,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-22T20:53:38.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e81a"
+  },
+  "review_id": "bdb1cb4f-e834-4404-bbe8-dc332f430783",
+  "product_id": 13,
+  "customer_id": 52,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-16T05:16:50.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e81b"
+  },
+  "review_id": "69d3cfdb-b0db-4e18-a9b3-80eab6ed1bd6",
+  "product_id": 39,
+  "customer_id": 34,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-06T15:40:08.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e81c"
+  },
+  "review_id": "20be3330-56db-4b7f-a196-c1dd6ead8f5d",
+  "product_id": 24,
+  "customer_id": 83,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-01T11:41:46.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e81d"
+  },
+  "review_id": "81b9a126-3172-48ea-bb60-1bc4faf7e847",
+  "product_id": 5,
+  "customer_id": 58,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-29T03:18:35.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e81e"
+  },
+  "review_id": "c938d130-d315-4138-9f47-fa9d14468bcc",
+  "product_id": 7,
+  "customer_id": 29,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-04T16:52:32.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e81f"
+  },
+  "review_id": "301921a9-a330-4f69-9a5e-af90a8795bb9",
+  "product_id": 30,
+  "customer_id": 20,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-28T01:30:38.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e820"
+  },
+  "review_id": "56605288-68c6-45c0-9577-147df1260567",
+  "product_id": 29,
+  "customer_id": 23,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-03T06:02:11.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e821"
+  },
+  "review_id": "a31420ba-1859-4ed0-95d6-b62b5bd1532b",
+  "product_id": 15,
+  "customer_id": 3,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-21T12:22:33.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e822"
+  },
+  "review_id": "093fefff-eed0-40d6-9067-bd77607bd0a2",
+  "product_id": 50,
+  "customer_id": 113,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-24T12:25:39.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e823"
+  },
+  "review_id": "e4169419-18f2-43a1-9fc7-fcdc2501c2f1",
+  "product_id": 34,
+  "customer_id": 22,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-14T22:05:10.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e824"
+  },
+  "review_id": "d0de84c2-8dde-4d6c-a6d4-040f895016af",
+  "product_id": 15,
+  "customer_id": 100,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-25T19:55:34.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e825"
+  },
+  "review_id": "431261a9-5335-478d-8a81-d03f8fa8d043",
+  "product_id": 29,
+  "customer_id": 116,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-12T17:43:00.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e826"
+  },
+  "review_id": "95a0b99e-f304-4852-bfca-6713984747b6",
+  "product_id": 47,
+  "customer_id": 11,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-04T08:07:49.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e827"
+  },
+  "review_id": "baba0e3e-d8bd-4d33-8c38-d825eaae5dce",
+  "product_id": 43,
+  "customer_id": 78,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-03T01:27:17.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e828"
+  },
+  "review_id": "3baa2d9c-1ee1-484d-90b9-0526a1fdfc35",
+  "product_id": 2,
+  "customer_id": 10,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-08T21:50:18.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e829"
+  },
+  "review_id": "dd63b12b-ccd4-456f-b27c-eb3ea04938f9",
+  "product_id": 34,
+  "customer_id": 110,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-09-26T23:08:28.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e82a"
+  },
+  "review_id": "0d307f7c-918a-4551-a358-d932db1b6407",
+  "product_id": 25,
+  "customer_id": 134,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-05T07:52:05.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e82b"
+  },
+  "review_id": "2c0bf3ca-78af-4b16-9c17-9b412542a211",
+  "product_id": 6,
+  "customer_id": 45,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-09-27T13:22:06.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e82c"
+  },
+  "review_id": "bb860b75-b68a-4af5-ad50-a201c2aaa085",
+  "product_id": 44,
+  "customer_id": 41,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-07-12T22:28:23.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e82d"
+  },
+  "review_id": "eb50d59b-2516-45f0-88a6-f7c699543c65",
+  "product_id": 48,
+  "customer_id": 107,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-31T19:24:40.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e82e"
+  },
+  "review_id": "3ba11591-bdc6-4a07-ad5e-77d33b9ae4a8",
+  "product_id": 1,
+  "customer_id": 97,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-18T23:28:10.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e82f"
+  },
+  "review_id": "b6b235a3-a914-4927-92e3-bf18ff6f9667",
+  "product_id": 49,
+  "customer_id": 134,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-18T15:55:40.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e830"
+  },
+  "review_id": "f0d34155-05a2-4401-9e0c-28f47676cdb7",
+  "product_id": 22,
+  "customer_id": 86,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-27T09:06:02.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e831"
+  },
+  "review_id": "29642a3d-cc88-4f5c-8b10-7febac068c8f",
+  "product_id": 8,
+  "customer_id": 143,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-12T16:33:57.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e832"
+  },
+  "review_id": "20f242a0-9d1e-4d1d-8a98-881d83a8713b",
+  "product_id": 34,
+  "customer_id": 99,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-29T23:17:56.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e833"
+  },
+  "review_id": "424f07da-7698-401b-b59f-0c5bc539528b",
+  "product_id": 35,
+  "customer_id": 11,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-14T16:29:35.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e834"
+  },
+  "review_id": "7db7b903-edc7-464b-88c2-0edec8513296",
+  "product_id": 28,
+  "customer_id": 20,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-04-06T15:47:42.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e835"
+  },
+  "review_id": "6c2ac4c0-d424-4ea5-ac46-fa105b61ec27",
+  "product_id": 33,
+  "customer_id": 137,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-17T15:21:27.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e836"
+  },
+  "review_id": "51969f48-aa54-48ae-b342-0f8f6a70b6da",
+  "product_id": 2,
+  "customer_id": 125,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-25T06:51:49.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e837"
+  },
+  "review_id": "9e191765-02dd-484f-95cf-5eca628fc085",
+  "product_id": 1,
+  "customer_id": 141,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-23T18:04:22.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e838"
+  },
+  "review_id": "fc05faf4-23dc-489c-8873-af3ce0d41bbd",
+  "product_id": 16,
+  "customer_id": 56,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-16T02:11:02.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e839"
+  },
+  "review_id": "c04d1c7b-bd23-4d47-8ee0-6887c035468e",
+  "product_id": 19,
+  "customer_id": 126,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-19T15:57:08.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e83a"
+  },
+  "review_id": "3d54088b-2a52-4e3f-afc4-1b97e81cae75",
+  "product_id": 3,
+  "customer_id": 134,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-16T21:36:34.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e83b"
+  },
+  "review_id": "b5881491-e2f7-4adc-970b-dcddd2d2763d",
+  "product_id": 39,
+  "customer_id": 15,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-21T23:34:30.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e83c"
+  },
+  "review_id": "2f737356-84d7-44df-bc33-4fe2bf1f6312",
+  "product_id": 10,
+  "customer_id": 120,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-09T17:27:43.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e83d"
+  },
+  "review_id": "f7120e29-0fde-47a1-b3d3-7b163055e826",
+  "product_id": 50,
+  "customer_id": 139,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-18T06:58:08.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e83e"
+  },
+  "review_id": "95db5e05-5e3b-42f9-bd7a-fdd64f52dd7b",
+  "product_id": 47,
+  "customer_id": 72,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-20T08:28:01.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e83f"
+  },
+  "review_id": "fae8003e-7f9e-44b2-a67d-57f566a90935",
+  "product_id": 5,
+  "customer_id": 126,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-22T04:56:36.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e840"
+  },
+  "review_id": "523c0b59-d565-445b-8c77-25c62bfebf98",
+  "product_id": 45,
+  "customer_id": 150,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-12T17:34:21.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e841"
+  },
+  "review_id": "44f4559b-b77d-4af8-868d-0336937dba50",
+  "product_id": 46,
+  "customer_id": 19,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-06T03:22:05.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e842"
+  },
+  "review_id": "d1bde5fc-da34-4ff1-ab9d-43da9b501928",
+  "product_id": 29,
+  "customer_id": 117,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-02T06:33:25.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e843"
+  },
+  "review_id": "ff115f7b-51dd-499e-916b-03e0195d0dc6",
+  "product_id": 38,
+  "customer_id": 42,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-24T03:25:36.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e844"
+  },
+  "review_id": "d9681347-e928-4e13-bd9b-0ad77833eb51",
+  "product_id": 47,
+  "customer_id": 148,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-07T06:03:40.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e845"
+  },
+  "review_id": "14cee556-ecdc-46f9-8005-b82ba6d0a1d3",
+  "product_id": 31,
+  "customer_id": 83,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-13T16:54:04.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e846"
+  },
+  "review_id": "e9ddb747-55b4-4e4c-a911-7337434f34ea",
+  "product_id": 49,
+  "customer_id": 79,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-05T20:54:20.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e847"
+  },
+  "review_id": "2c5acd5e-6402-4136-b5b3-92a9d3e963b4",
+  "product_id": 9,
+  "customer_id": 37,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-16T05:06:08.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e848"
+  },
+  "review_id": "4166966a-5735-4fb2-bcb8-8c44d7915f33",
+  "product_id": 18,
+  "customer_id": 104,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-02T22:00:36.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e849"
+  },
+  "review_id": "31c7295e-4d9a-4084-8011-d7aac7c590dc",
+  "product_id": 5,
+  "customer_id": 135,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-03T05:31:13.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e84a"
+  },
+  "review_id": "ef393eac-212f-498c-9979-7a179a06ec4f",
+  "product_id": 16,
+  "customer_id": 75,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-28T11:56:28.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e84b"
+  },
+  "review_id": "d521e1fa-6e3b-4dab-af3b-6fb5f504ae2f",
+  "product_id": 23,
+  "customer_id": 33,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-13T12:20:15.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e84c"
+  },
+  "review_id": "a35b4369-8f63-476b-9ce6-4c89bdb2a617",
+  "product_id": 36,
+  "customer_id": 122,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-10T04:45:40.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e84d"
+  },
+  "review_id": "7cbd23d0-b9f0-4b91-8808-1e50a5e6dd03",
+  "product_id": 44,
+  "customer_id": 63,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-27T01:58:20.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e84e"
+  },
+  "review_id": "0bc23397-900e-440b-8168-e0495b9e930c",
+  "product_id": 47,
+  "customer_id": 94,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-18T01:36:53.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e84f"
+  },
+  "review_id": "4798bc45-b513-4377-9044-f62a3e6f29fd",
+  "product_id": 11,
+  "customer_id": 81,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-16T06:46:00.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e850"
+  },
+  "review_id": "31c45b9d-93a2-438b-9d8e-73e9de5e4a54",
+  "product_id": 9,
+  "customer_id": 11,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-07T01:52:54.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e851"
+  },
+  "review_id": "d8c777b5-4a80-40cd-9504-ed7c436b5584",
+  "product_id": 49,
+  "customer_id": 149,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-12-22T23:42:44.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e852"
+  },
+  "review_id": "500c7ec3-5440-4461-b770-2a19f2a8594f",
+  "product_id": 15,
+  "customer_id": 20,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-21T21:37:44.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e853"
+  },
+  "review_id": "6b9084cf-06fd-4890-8ac3-575e70b5f559",
+  "product_id": 14,
+  "customer_id": 10,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-04-15T07:13:19.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e854"
+  },
+  "review_id": "0f1303fa-4ddb-4453-9353-76fa19d54ef7",
+  "product_id": 17,
+  "customer_id": 145,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-01T13:42:13.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e855"
+  },
+  "review_id": "770cc2fb-ef54-4dae-80c0-8af43886a737",
+  "product_id": 6,
+  "customer_id": 89,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-16T06:34:58.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e856"
+  },
+  "review_id": "f04a0253-5c39-4b19-a69c-cc7cd044ede3",
+  "product_id": 7,
+  "customer_id": 100,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-04T21:23:52.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e857"
+  },
+  "review_id": "f49357bc-4e1e-48c6-898d-b3da562c2c19",
+  "product_id": 33,
+  "customer_id": 42,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-09T06:15:53.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e858"
+  },
+  "review_id": "2f02cc80-99cf-4de6-b86c-eccfb821d540",
+  "product_id": 47,
+  "customer_id": 43,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-14T19:49:37.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e859"
+  },
+  "review_id": "fd4aa0a8-8a95-46aa-8caa-efe9f1c0a7ff",
+  "product_id": 40,
+  "customer_id": 115,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-28T07:57:26.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e85a"
+  },
+  "review_id": "6a51082e-ac08-4b46-8ce5-a52bcc5841c6",
+  "product_id": 12,
+  "customer_id": 44,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-24T05:02:24.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e85b"
+  },
+  "review_id": "f8ff0cef-235e-4e80-b173-296e33888c83",
+  "product_id": 46,
+  "customer_id": 89,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-01T16:53:01.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e85c"
+  },
+  "review_id": "e4538bf7-3d10-42a5-826f-6e57c78cc77a",
+  "product_id": 43,
+  "customer_id": 117,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-08T17:55:48.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e85d"
+  },
+  "review_id": "3573a88c-46fd-429e-b80a-0de8b47d614b",
+  "product_id": 29,
+  "customer_id": 101,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-23T22:15:05.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e85e"
+  },
+  "review_id": "29e57715-9c04-4204-b252-5971274035cd",
+  "product_id": 3,
+  "customer_id": 93,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-08T08:22:42.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e85f"
+  },
+  "review_id": "e7003446-dbda-4f18-8e5b-b969f2e3f65b",
+  "product_id": 7,
+  "customer_id": 48,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-11T06:55:10.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e860"
+  },
+  "review_id": "696bf531-608d-4b4c-8c6d-d248dde984b7",
+  "product_id": 42,
+  "customer_id": 25,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-13T23:14:12.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e861"
+  },
+  "review_id": "6bb777b5-aeaa-4b76-9862-49804f32584c",
+  "product_id": 37,
+  "customer_id": 124,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-24T11:23:47.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e862"
+  },
+  "review_id": "fffeee2e-a407-4196-a792-00a754f6a79a",
+  "product_id": 26,
+  "customer_id": 9,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-31T08:54:21.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e863"
+  },
+  "review_id": "3d044aa6-b66a-49f0-a3f2-39e402d6a018",
+  "product_id": 16,
+  "customer_id": 31,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-13T12:14:53.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e864"
+  },
+  "review_id": "b446c177-8434-4bc9-b557-75a5be6cca30",
+  "product_id": 35,
+  "customer_id": 77,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-01T23:13:28.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e865"
+  },
+  "review_id": "84fbaa29-4790-40b1-8de3-f388f1f922b7",
+  "product_id": 40,
+  "customer_id": 110,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-20T08:26:59.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e866"
+  },
+  "review_id": "4b179063-a0be-4ad4-8b44-bcdf1855fc4a",
+  "product_id": 12,
+  "customer_id": 32,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-07T14:31:02.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e867"
+  },
+  "review_id": "b9421f3d-af47-4935-a04c-36056cf25339",
+  "product_id": 22,
+  "customer_id": 149,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-08T11:38:35.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e868"
+  },
+  "review_id": "5f215338-dc18-4130-b616-256c7aa3254f",
+  "product_id": 50,
+  "customer_id": 147,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-04T23:26:03.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e869"
+  },
+  "review_id": "1cd512aa-9cfe-4474-9905-751e46bd2716",
+  "product_id": 17,
+  "customer_id": 113,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-02T23:02:52.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e86a"
+  },
+  "review_id": "91b6c58f-93b8-4806-91fa-bbda902cc940",
+  "product_id": 12,
+  "customer_id": 44,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-01T07:48:42.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e86b"
+  },
+  "review_id": "af4e4003-91a1-432e-840e-ba495b934cbd",
+  "product_id": 9,
+  "customer_id": 136,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-07T10:29:47.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e86c"
+  },
+  "review_id": "acbb5e80-0464-4513-9eaf-b41f2193617e",
+  "product_id": 29,
+  "customer_id": 85,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-19T00:14:31.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e86d"
+  },
+  "review_id": "42257ff0-8548-4536-8c69-1ce93d3f461b",
+  "product_id": 12,
+  "customer_id": 102,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-19T05:58:03.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e86e"
+  },
+  "review_id": "96fc111e-8a37-4bd0-91a5-ff86732baab6",
+  "product_id": 3,
+  "customer_id": 22,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-15T07:37:50.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e86f"
+  },
+  "review_id": "182501a6-a89b-4990-ba50-de2fe61c9bca",
+  "product_id": 24,
+  "customer_id": 75,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-27T02:11:27.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e870"
+  },
+  "review_id": "9bc80ce9-e82e-4511-87c3-47e6d428110e",
+  "product_id": 40,
+  "customer_id": 92,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-06-03T17:37:33.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e871"
+  },
+  "review_id": "14cbc94e-a244-485c-b05a-17353f7d17f1",
+  "product_id": 3,
+  "customer_id": 51,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-18T02:46:47.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e872"
+  },
+  "review_id": "55236e03-4a11-424d-a775-beeed362c980",
+  "product_id": 20,
+  "customer_id": 144,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-29T16:10:24.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e873"
+  },
+  "review_id": "0566544e-2401-4821-9da0-d8c7f8769971",
+  "product_id": 31,
+  "customer_id": 12,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-04T12:36:16.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e874"
+  },
+  "review_id": "fdd17984-dcc1-4a44-b3ed-dab4c3035e7f",
+  "product_id": 15,
+  "customer_id": 29,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-26T15:34:57.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e875"
+  },
+  "review_id": "d59d4e99-73a6-48ef-bc36-1b296eb10d12",
+  "product_id": 1,
+  "customer_id": 109,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-27T09:22:09.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e876"
+  },
+  "review_id": "65d6e789-6a80-4354-ae56-d1af578eb470",
+  "product_id": 44,
+  "customer_id": 46,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-23T13:46:16.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e877"
+  },
+  "review_id": "10b6c3c9-be2a-486f-9d07-b1504509b218",
+  "product_id": 31,
+  "customer_id": 99,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-28T16:35:41.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e878"
+  },
+  "review_id": "8df31618-0904-4adf-946e-d951c9f99995",
+  "product_id": 13,
+  "customer_id": 117,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-25T16:55:54.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e879"
+  },
+  "review_id": "9928b236-4876-469d-b70d-58d7e70a3f61",
+  "product_id": 39,
+  "customer_id": 121,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-02T21:09:21.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e87a"
+  },
+  "review_id": "b266f22f-e8da-440c-ae8f-c5867a85a093",
+  "product_id": 42,
+  "customer_id": 141,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-15T08:59:20.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e87b"
+  },
+  "review_id": "0875e377-679c-44eb-8b83-1c03a559c6ac",
+  "product_id": 26,
+  "customer_id": 10,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-31T16:40:12.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e87c"
+  },
+  "review_id": "07e9c57b-df23-4d9c-8007-75c3e5f695fd",
+  "product_id": 11,
+  "customer_id": 59,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-14T11:54:59.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e87d"
+  },
+  "review_id": "3be6d32a-9c1b-4ced-89b5-234b4a10d6a5",
+  "product_id": 6,
+  "customer_id": 85,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-07-22T07:24:21.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e87e"
+  },
+  "review_id": "087f1046-f7fa-45f0-8307-f76d0cc4f326",
+  "product_id": 12,
+  "customer_id": 143,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-10T03:27:25.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e87f"
+  },
+  "review_id": "e5d430bd-a057-4ac9-96a8-ccad991ddac7",
+  "product_id": 15,
+  "customer_id": 82,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-31T21:18:53.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e880"
+  },
+  "review_id": "b05ae2c7-3c2d-4ff0-b02c-c6d63800a0e7",
+  "product_id": 46,
+  "customer_id": 136,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-03T19:34:18.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e881"
+  },
+  "review_id": "a6a041ad-12f2-4396-b3c0-4799e4b89fea",
+  "product_id": 22,
+  "customer_id": 72,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-19T07:38:37.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e882"
+  },
+  "review_id": "8a2b7cce-1ecc-42b0-a007-41f4db3e2f55",
+  "product_id": 27,
+  "customer_id": 85,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-18T07:38:51.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e883"
+  },
+  "review_id": "490cf3fc-1cd0-44aa-b2c9-1ee2292c3354",
+  "product_id": 14,
+  "customer_id": 140,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-12-14T02:09:37.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e884"
+  },
+  "review_id": "e1cc3b0d-6fec-4849-9dd6-5a33aadab399",
+  "product_id": 15,
+  "customer_id": 101,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-21T11:39:12.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e885"
+  },
+  "review_id": "7b7f2055-2460-49f5-8fb1-5c1c7a094736",
+  "product_id": 7,
+  "customer_id": 100,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-02-09T11:16:02.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e886"
+  },
+  "review_id": "50cd0988-caa0-45ed-adca-2312bdb2733b",
+  "product_id": 40,
+  "customer_id": 59,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-02T16:41:50.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e887"
+  },
+  "review_id": "0a439ea6-1345-4bb5-b452-542ebcb0fddb",
+  "product_id": 24,
+  "customer_id": 57,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-09-03T07:52:14.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e888"
+  },
+  "review_id": "777ea6cd-aa2c-41ba-b311-4634f80015ae",
+  "product_id": 23,
+  "customer_id": 54,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-15T16:07:22.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e889"
+  },
+  "review_id": "e4c6e15b-4b4d-4031-9a8d-d415700a4310",
+  "product_id": 12,
+  "customer_id": 125,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-16T15:24:22.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e88a"
+  },
+  "review_id": "9eaa86ca-fe2e-4a69-a552-253fc6a04cd6",
+  "product_id": 5,
+  "customer_id": 37,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-11-04T09:35:12.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e88b"
+  },
+  "review_id": "52e6bd28-fe87-4644-b6d6-111a592ed3df",
+  "product_id": 44,
+  "customer_id": 63,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-09T08:47:29.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e88c"
+  },
+  "review_id": "5a761645-61ab-4d3a-bae1-c1af0f517b60",
+  "product_id": 40,
+  "customer_id": 45,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-17T22:49:35.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e88d"
+  },
+  "review_id": "05a61f55-47e0-4ca7-b21f-63931b36764a",
+  "product_id": 9,
+  "customer_id": 73,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-02T11:18:06.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e88e"
+  },
+  "review_id": "4b00fe64-1979-451c-ba88-28a0a3bf5f43",
+  "product_id": 7,
+  "customer_id": 67,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-17T18:37:17.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e88f"
+  },
+  "review_id": "6afe9f47-cc82-44df-b717-a5a057065f19",
+  "product_id": 29,
+  "customer_id": 113,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-12-29T15:24:10.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e890"
+  },
+  "review_id": "846f8037-4106-4408-a811-ff39134798fc",
+  "product_id": 37,
+  "customer_id": 9,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-12T07:00:11.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e891"
+  },
+  "review_id": "f240553f-3f00-4f73-ade0-c0eadd9fa80e",
+  "product_id": 45,
+  "customer_id": 125,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-16T20:38:30.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e892"
+  },
+  "review_id": "a9d8594f-eccb-475a-9cf0-be6d6cbaa288",
+  "product_id": 13,
+  "customer_id": 12,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-16T19:02:49.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e893"
+  },
+  "review_id": "924e7a1b-db04-4c1b-a261-c41aeafc80ac",
+  "product_id": 9,
+  "customer_id": 136,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-22T07:01:19.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e894"
+  },
+  "review_id": "fe3be779-01f8-45f7-a194-28df0f9780dc",
+  "product_id": 38,
+  "customer_id": 130,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-22T15:43:08.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e895"
+  },
+  "review_id": "650e522b-7b20-47ba-aa6d-861f4c4b4f55",
+  "product_id": 19,
+  "customer_id": 6,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-24T13:23:06.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e896"
+  },
+  "review_id": "67727a1d-77dd-4362-ba07-811dcfdaa739",
+  "product_id": 36,
+  "customer_id": 84,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-02T20:33:35.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e897"
+  },
+  "review_id": "e838eea9-e225-4809-8b61-ff4fd3e60052",
+  "product_id": 9,
+  "customer_id": 141,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-11T14:45:44.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e898"
+  },
+  "review_id": "1ac5a846-ba5d-4975-8e5a-9f0709b1c2f2",
+  "product_id": 27,
+  "customer_id": 56,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-02T14:46:49.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e899"
+  },
+  "review_id": "7bb39448-9785-4dd4-9d18-634c2783d75c",
+  "product_id": 25,
+  "customer_id": 2,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-12T11:06:11.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e89a"
+  },
+  "review_id": "017cc430-1fb8-49d4-a9d0-77153074a543",
+  "product_id": 37,
+  "customer_id": 97,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-27T09:57:33.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e89b"
+  },
+  "review_id": "513c4afb-798c-45ff-8b40-ea87588fad86",
+  "product_id": 40,
+  "customer_id": 23,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-30T18:59:43.000Z"
+  },
+  "helpful_votes": 2
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e89c"
+  },
+  "review_id": "6c06640e-b04e-465a-89b0-ea7d4485620a",
+  "product_id": 6,
+  "customer_id": 59,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-08T13:20:33.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e89d"
+  },
+  "review_id": "bde49ad7-8637-444f-85c1-6257e5f0884f",
+  "product_id": 30,
+  "customer_id": 13,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-03T13:37:51.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e89e"
+  },
+  "review_id": "77f01747-e11f-424d-a085-529df67c5960",
+  "product_id": 26,
+  "customer_id": 132,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-09-09T00:32:30.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e89f"
+  },
+  "review_id": "825ecbaf-bba7-48a4-affe-33d8ae310520",
+  "product_id": 37,
+  "customer_id": 134,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-06T19:15:42.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a0"
+  },
+  "review_id": "2ff1ca54-ea9b-4227-b7b5-26cd54b283d4",
+  "product_id": 46,
+  "customer_id": 138,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-08-08T23:23:02.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a1"
+  },
+  "review_id": "ec5e0e1c-f607-467c-9bb2-f4930a464074",
+  "product_id": 32,
+  "customer_id": 126,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-09T20:22:22.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a2"
+  },
+  "review_id": "2eeb9145-0e68-4a5b-aa40-13e1d4f0bc39",
+  "product_id": 39,
+  "customer_id": 143,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-21T11:51:45.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a3"
+  },
+  "review_id": "9ac69476-9ecf-4cfd-ab0a-087c3197821a",
+  "product_id": 44,
+  "customer_id": 11,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-19T00:19:39.000Z"
+  },
+  "helpful_votes": 15
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a4"
+  },
+  "review_id": "58274b09-4e93-4298-b8dc-cddac17b2518",
+  "product_id": 17,
+  "customer_id": 47,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-29T22:07:16.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a5"
+  },
+  "review_id": "8d658f2d-6ea1-42c4-b153-693e54771f2c",
+  "product_id": 26,
+  "customer_id": 8,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-05T20:28:06.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a6"
+  },
+  "review_id": "f7758b36-1049-42f9-aa81-af1d37223d9c",
+  "product_id": 1,
+  "customer_id": 26,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-26T01:13:26.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a7"
+  },
+  "review_id": "6d714ec8-f7d2-476d-b6bc-7714326364cb",
+  "product_id": 22,
+  "customer_id": 136,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-30T06:56:23.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a8"
+  },
+  "review_id": "64d6060c-831e-4efc-9527-1ab2ba1ffa96",
+  "product_id": 38,
+  "customer_id": 21,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-07T00:24:51.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8a9"
+  },
+  "review_id": "0e602d6b-abb8-4ab1-b5ae-c9479bb343a4",
+  "product_id": 3,
+  "customer_id": 85,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-03-28T03:57:56.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8aa"
+  },
+  "review_id": "521cf865-6467-4a6b-a70a-5473606d2542",
+  "product_id": 32,
+  "customer_id": 97,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-24T03:42:05.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ab"
+  },
+  "review_id": "9d81d284-34ab-475f-825b-62e6bd7a11dc",
+  "product_id": 15,
+  "customer_id": 137,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-09T16:02:56.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ac"
+  },
+  "review_id": "33608be6-1994-43ee-86e5-3fb0fb9be5c3",
+  "product_id": 20,
+  "customer_id": 23,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-12T11:15:29.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ad"
+  },
+  "review_id": "d9b45c58-7bb8-4ac1-9bcc-908635d3c6df",
+  "product_id": 7,
+  "customer_id": 134,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-08T13:57:08.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ae"
+  },
+  "review_id": "876cbf09-04b0-4398-b365-87121852cbdf",
+  "product_id": 45,
+  "customer_id": 85,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-18T08:07:11.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8af"
+  },
+  "review_id": "8d06b718-44c9-468f-845f-f823d775d45d",
+  "product_id": 10,
+  "customer_id": 55,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-13T13:23:18.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b0"
+  },
+  "review_id": "ca1dc7ee-8b53-418a-8926-e0a68415a74c",
+  "product_id": 46,
+  "customer_id": 48,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-08T03:06:48.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b1"
+  },
+  "review_id": "2eb23d0f-8590-46b9-b985-2484bae98f29",
+  "product_id": 32,
+  "customer_id": 76,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-01-13T01:37:21.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b2"
+  },
+  "review_id": "1b80355f-9339-45bf-9692-7a8eaf1dd5d4",
+  "product_id": 23,
+  "customer_id": 39,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-04T09:30:44.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b3"
+  },
+  "review_id": "db7b1b90-9333-4519-b598-54c206e40a7e",
+  "product_id": 24,
+  "customer_id": 106,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-29T08:53:43.000Z"
+  },
+  "helpful_votes": 14
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b4"
+  },
+  "review_id": "a19cd9df-82e5-42cb-9f30-c577790f8ba3",
+  "product_id": 22,
+  "customer_id": 115,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-29T06:02:08.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b5"
+  },
+  "review_id": "41384c80-3410-4acf-8a7b-2ed7073ef74d",
+  "product_id": 12,
+  "customer_id": 132,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-21T18:41:24.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b6"
+  },
+  "review_id": "7bac47ce-cd03-45ef-9b07-01f9015c6a09",
+  "product_id": 50,
+  "customer_id": 52,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-11T21:30:00.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b7"
+  },
+  "review_id": "5fc5e22f-5389-4763-81c7-7205179dede9",
+  "product_id": 6,
+  "customer_id": 140,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-08T22:44:52.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b8"
+  },
+  "review_id": "d9ef549b-2fc9-4cce-9c44-56f9aaeaa6a2",
+  "product_id": 17,
+  "customer_id": 23,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-10-18T10:58:54.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8b9"
+  },
+  "review_id": "d94b6fce-14d9-4ef1-8ca7-561ac171085e",
+  "product_id": 2,
+  "customer_id": 24,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-14T16:39:14.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ba"
+  },
+  "review_id": "77caac7b-63d9-4826-a85e-d79c4a827617",
+  "product_id": 43,
+  "customer_id": 140,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-03-27T10:34:04.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8bb"
+  },
+  "review_id": "93409290-3f77-4fec-b69e-dec7ed6fa7fc",
+  "product_id": 2,
+  "customer_id": 94,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-27T11:02:25.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8bc"
+  },
+  "review_id": "5a9d1f55-447f-4867-9f80-5c61806710aa",
+  "product_id": 32,
+  "customer_id": 19,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-12T11:55:22.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8bd"
+  },
+  "review_id": "ccae43d9-500e-47fd-9849-4a3f665c8e69",
+  "product_id": 47,
+  "customer_id": 67,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-07-22T04:40:38.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8be"
+  },
+  "review_id": "f709a330-1388-45d9-9ec6-dcdb921d17e7",
+  "product_id": 37,
+  "customer_id": 33,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-19T19:12:32.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8bf"
+  },
+  "review_id": "afb18e4d-dbe0-4037-9ea8-27b51e4f03aa",
+  "product_id": 23,
+  "customer_id": 106,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-17T20:48:17.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c0"
+  },
+  "review_id": "0bb945ba-2988-4802-b62b-e33afb5df30a",
+  "product_id": 16,
+  "customer_id": 128,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-10-12T03:59:34.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c1"
+  },
+  "review_id": "d5f53df3-facb-4567-9c61-05320059ca5d",
+  "product_id": 6,
+  "customer_id": 67,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-20T14:20:32.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c2"
+  },
+  "review_id": "06ed2b22-9057-47ff-9f8d-0894c9c7eccb",
+  "product_id": 2,
+  "customer_id": 18,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-05-18T10:00:14.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c3"
+  },
+  "review_id": "08e1e598-ac27-4177-adca-f6e7f77554e2",
+  "product_id": 40,
+  "customer_id": 44,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-11T08:48:57.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c4"
+  },
+  "review_id": "7df358e2-56ba-41ef-9fa9-a84cff75e519",
+  "product_id": 39,
+  "customer_id": 18,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-13T12:32:22.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c5"
+  },
+  "review_id": "5e7bc822-8d71-4725-936c-dcf353672768",
+  "product_id": 5,
+  "customer_id": 47,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-12T03:14:25.000Z"
+  },
+  "helpful_votes": 22
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c6"
+  },
+  "review_id": "49d625cb-b160-42d3-956c-94c045116582",
+  "product_id": 9,
+  "customer_id": 34,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-07-31T00:15:23.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c7"
+  },
+  "review_id": "079af816-c25b-41b5-8bb7-8a326df8824a",
+  "product_id": 27,
+  "customer_id": 110,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-30T03:29:54.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c8"
+  },
+  "review_id": "d09d3b90-f217-44d4-bbab-c190ee2e07fb",
+  "product_id": 18,
+  "customer_id": 127,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-01T03:24:04.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8c9"
+  },
+  "review_id": "2b60ae00-d58a-4c7c-a6c6-027580922866",
+  "product_id": 5,
+  "customer_id": 124,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-27T06:20:55.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ca"
+  },
+  "review_id": "e987249b-1591-4bad-9aaa-bcddd9362831",
+  "product_id": 37,
+  "customer_id": 114,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-26T21:41:55.000Z"
+  },
+  "helpful_votes": 8
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8cb"
+  },
+  "review_id": "f63db0bf-69a9-40b4-af83-f2ce1df5798b",
+  "product_id": 33,
+  "customer_id": 14,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-06T15:06:22.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8cc"
+  },
+  "review_id": "674972a0-5a53-4fed-98c6-0afb3d676f7e",
+  "product_id": 13,
+  "customer_id": 50,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-12T02:12:54.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8cd"
+  },
+  "review_id": "e4b7cd54-3abb-4265-89df-cf3dded71d3f",
+  "product_id": 7,
+  "customer_id": 133,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-06T23:35:33.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ce"
+  },
+  "review_id": "6ead2848-eb3a-4bc6-b8b4-303b942da11a",
+  "product_id": 12,
+  "customer_id": 78,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-09-04T13:01:08.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8cf"
+  },
+  "review_id": "9c34441e-b6af-4904-b2e7-d43463fe6bba",
+  "product_id": 19,
+  "customer_id": 38,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-08-04T09:03:18.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d0"
+  },
+  "review_id": "ab01a673-dcee-44ae-bda4-655435fc7b60",
+  "product_id": 17,
+  "customer_id": 96,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-05-15T15:49:25.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d1"
+  },
+  "review_id": "2bd0a003-25ce-44b3-ad80-db164a2d5304",
+  "product_id": 22,
+  "customer_id": 20,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-11T22:11:54.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d2"
+  },
+  "review_id": "6b340641-6b99-4310-851f-433f6b864853",
+  "product_id": 19,
+  "customer_id": 74,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-31T16:06:46.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d3"
+  },
+  "review_id": "320952e3-6fb2-4a3b-a397-605cbdc43813",
+  "product_id": 1,
+  "customer_id": 109,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-03-11T03:49:35.000Z"
+  },
+  "helpful_votes": 18
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d4"
+  },
+  "review_id": "9466190e-89ac-4b38-acc8-5f66d2cde23e",
+  "product_id": 23,
+  "customer_id": 43,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-19T18:42:55.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d5"
+  },
+  "review_id": "17139add-54ae-4010-8a17-ebfc046f7462",
+  "product_id": 4,
+  "customer_id": 124,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-28T13:09:36.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d6"
+  },
+  "review_id": "ede235cc-af4c-44af-b4d8-f54760b008bc",
+  "product_id": 6,
+  "customer_id": 78,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-18T03:15:21.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d7"
+  },
+  "review_id": "1e62ff82-6142-48db-8309-2e5c09b74038",
+  "product_id": 21,
+  "customer_id": 99,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-26T20:29:46.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d8"
+  },
+  "review_id": "e1ac6b67-fadd-4d12-9931-c800af53a67c",
+  "product_id": 21,
+  "customer_id": 80,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-08-19T20:54:03.000Z"
+  },
+  "helpful_votes": 13
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8d9"
+  },
+  "review_id": "46817128-c038-430e-bfea-af08cabb078c",
+  "product_id": 50,
+  "customer_id": 150,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-05-28T08:42:12.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8da"
+  },
+  "review_id": "5f4f1aa5-1621-4199-982e-60c1537022c6",
+  "product_id": 26,
+  "customer_id": 48,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-11-10T16:06:09.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8db"
+  },
+  "review_id": "6dacdf85-6610-460e-9e37-102f2d309b68",
+  "product_id": 7,
+  "customer_id": 58,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-12-14T06:46:47.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8dc"
+  },
+  "review_id": "f5d49ec9-6ea6-4433-8c57-5ca4914e8013",
+  "product_id": 46,
+  "customer_id": 12,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-06-15T03:37:27.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8dd"
+  },
+  "review_id": "34e911b2-3f28-4056-9535-8bc3593815dd",
+  "product_id": 6,
+  "customer_id": 39,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-08-16T08:08:27.000Z"
+  },
+  "helpful_votes": 1
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8de"
+  },
+  "review_id": "da5081f2-b0ed-47b9-8480-a4ece1f5723c",
+  "product_id": 50,
+  "customer_id": 33,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-10T03:48:28.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8df"
+  },
+  "review_id": "47126f4a-0ec0-4d9d-ac8d-54ed9eeea29b",
+  "product_id": 27,
+  "customer_id": 131,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-10-15T16:30:14.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e0"
+  },
+  "review_id": "2ba5b883-3403-47d9-b13e-ab69da3c52fb",
+  "product_id": 50,
+  "customer_id": 24,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-10-11T01:58:57.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e1"
+  },
+  "review_id": "d24ed88d-ffd5-4679-9625-9230ca6d47d8",
+  "product_id": 19,
+  "customer_id": 72,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-14T06:35:45.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e2"
+  },
+  "review_id": "cc5dbfd2-6fdb-4eb5-86b6-007ec1ad8b54",
+  "product_id": 45,
+  "customer_id": 9,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-04T12:03:49.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e3"
+  },
+  "review_id": "4d815b3f-9ca8-4589-b23f-6a41cb7e88f3",
+  "product_id": 8,
+  "customer_id": 89,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-09-26T04:46:00.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e4"
+  },
+  "review_id": "64bf7bed-a202-4a44-98ec-0f7e33d4fa60",
+  "product_id": 5,
+  "customer_id": 95,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-05-25T08:56:33.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e5"
+  },
+  "review_id": "2fca465e-2ce7-4344-88d4-799b1a6dbbe6",
+  "product_id": 48,
+  "customer_id": 34,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-10-15T02:11:39.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e6"
+  },
+  "review_id": "8380410e-4155-46aa-9161-3f1ffe88ec3b",
+  "product_id": 46,
+  "customer_id": 77,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-07-17T11:09:51.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e7"
+  },
+  "review_id": "725ee3cd-fe4f-4be2-80e7-5f9139f8aaa5",
+  "product_id": 30,
+  "customer_id": 128,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-06-10T03:13:10.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e8"
+  },
+  "review_id": "45705829-3854-483a-8c63-2fb48b3ac7fa",
+  "product_id": 41,
+  "customer_id": 74,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-02T09:10:23.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8e9"
+  },
+  "review_id": "2c4891ab-546b-479e-a78a-cc186735ea47",
+  "product_id": 8,
+  "customer_id": 66,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-02-05T23:03:31.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ea"
+  },
+  "review_id": "fc80e2eb-aec7-4f16-aaf5-e77e1f4af952",
+  "product_id": 13,
+  "customer_id": 77,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-21T07:03:16.000Z"
+  },
+  "helpful_votes": 9
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8eb"
+  },
+  "review_id": "bc789329-29fb-4152-8ce9-d942a2feaa0b",
+  "product_id": 46,
+  "customer_id": 4,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-01-26T13:07:49.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ec"
+  },
+  "review_id": "f4209130-f0cd-4e78-aff6-a5a687e45e02",
+  "product_id": 18,
+  "customer_id": 120,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-03-06T12:16:29.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ed"
+  },
+  "review_id": "4c5b4ed0-e952-430a-9b97-443acc3d46ca",
+  "product_id": 30,
+  "customer_id": 33,
+  "rating": 5,
+  "created_at": {
+    "$date": "2025-01-10T17:47:45.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ee"
+  },
+  "review_id": "d87927d4-6698-4f16-a249-b29c2c9f7635",
+  "product_id": 9,
+  "customer_id": 144,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-21T14:22:23.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ef"
+  },
+  "review_id": "71901fa8-7321-4069-8f12-392a3bdb2b12",
+  "product_id": 19,
+  "customer_id": 35,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-24T05:15:59.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f0"
+  },
+  "review_id": "0a2adb20-0ae3-47be-a6b5-1f822ae2a960",
+  "product_id": 6,
+  "customer_id": 17,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-22T02:26:45.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f1"
+  },
+  "review_id": "562eb3d9-d91b-4278-b78b-d1c72ce7c2ef",
+  "product_id": 29,
+  "customer_id": 11,
+  "rating": 4,
+  "created_at": {
+    "$date": "2024-09-03T14:16:12.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f2"
+  },
+  "review_id": "08fa06f4-928a-47ec-9113-ad964fba51c2",
+  "product_id": 35,
+  "customer_id": 72,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-04-21T05:01:04.000Z"
+  },
+  "helpful_votes": 0
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f3"
+  },
+  "review_id": "f150d021-ec25-4a39-aae8-a193b4b163eb",
+  "product_id": 50,
+  "customer_id": 66,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-04-27T18:17:40.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f4"
+  },
+  "review_id": "8cd12382-cab4-4575-8252-a1846a35fd1c",
+  "product_id": 24,
+  "customer_id": 19,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-04T03:51:04.000Z"
+  },
+  "helpful_votes": 25
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f5"
+  },
+  "review_id": "4b8baa75-b3a6-4386-9a08-abb80eb5c057",
+  "product_id": 48,
+  "customer_id": 7,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-06-24T17:17:12.000Z"
+  },
+  "helpful_votes": 19
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f6"
+  },
+  "review_id": "8ebecfd7-60e1-46b4-9055-644ce176f64d",
+  "product_id": 15,
+  "customer_id": 86,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-10-28T07:48:48.000Z"
+  },
+  "helpful_votes": 21
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f7"
+  },
+  "review_id": "d49df0c2-8d4c-40e6-bed8-6f0edd8263e4",
+  "product_id": 1,
+  "customer_id": 120,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-02-04T13:33:10.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f8"
+  },
+  "review_id": "835d3060-c6da-4c21-bd2a-e307e681507e",
+  "product_id": 26,
+  "customer_id": 99,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-01-18T16:53:06.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8f9"
+  },
+  "review_id": "c0f43052-bde3-499b-a507-511a9aa0aff6",
+  "product_id": 23,
+  "customer_id": 79,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-26T09:13:59.000Z"
+  },
+  "helpful_votes": 10
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8fa"
+  },
+  "review_id": "71088a39-137c-44f9-b9c9-797f0c016e65",
+  "product_id": 41,
+  "customer_id": 149,
+  "rating": 4,
+  "created_at": {
+    "$date": "2025-05-15T00:52:20.000Z"
+  },
+  "helpful_votes": 23
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8fb"
+  },
+  "review_id": "d6e86916-99f3-49c7-8e93-53db5be2df73",
+  "product_id": 2,
+  "customer_id": 94,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-10-26T17:20:17.000Z"
+  },
+  "helpful_votes": 7
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8fc"
+  },
+  "review_id": "36048324-735c-4772-a7a4-a6119072dba5",
+  "product_id": 44,
+  "customer_id": 149,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-06T18:41:14.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8fd"
+  },
+  "review_id": "acc56cab-b7ff-4280-abe2-9abb8bd2a529",
+  "product_id": 45,
+  "customer_id": 67,
+  "rating": 2,
+  "created_at": {
+    "$date": "2024-12-18T08:47:18.000Z"
+  },
+  "helpful_votes": 6
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8fe"
+  },
+  "review_id": "9419f6be-0cd2-4ba0-8b99-99fb642b52c4",
+  "product_id": 44,
+  "customer_id": 1,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-08-08T18:33:48.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e8ff"
+  },
+  "review_id": "763df11d-b8dc-4e99-8fc4-5c969a8b205f",
+  "product_id": 6,
+  "customer_id": 116,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-06-12T08:30:38.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e900"
+  },
+  "review_id": "6a2a8531-2ada-4acf-93a3-f5273f761de6",
+  "product_id": 1,
+  "customer_id": 38,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-16T21:39:05.000Z"
+  },
+  "helpful_votes": 3
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e901"
+  },
+  "review_id": "57703220-3207-49cb-a212-265ceb73582e",
+  "product_id": 31,
+  "customer_id": 77,
+  "rating": 5,
+  "created_at": {
+    "$date": "2024-11-14T16:20:16.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e902"
+  },
+  "review_id": "c71eda65-307e-4d3d-8717-0aa169a9f0b8",
+  "product_id": 25,
+  "customer_id": 86,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-18T09:20:39.000Z"
+  },
+  "helpful_votes": 20
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e903"
+  },
+  "review_id": "6b916807-e6b5-4120-a216-236fd119f264",
+  "product_id": 18,
+  "customer_id": 27,
+  "rating": 2,
+  "created_at": {
+    "$date": "2025-02-10T06:17:47.000Z"
+  },
+  "helpful_votes": 24
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e904"
+  },
+  "review_id": "94060bca-d843-4e97-8cee-58673f7e279f",
+  "product_id": 38,
+  "customer_id": 30,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-02-02T01:21:22.000Z"
+  },
+  "helpful_votes": 12
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e905"
+  },
+  "review_id": "91458182-de77-48fb-94ca-ec2f0cec20a0",
+  "product_id": 19,
+  "customer_id": 58,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-03-19T11:36:13.000Z"
+  },
+  "helpful_votes": 17
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e906"
+  },
+  "review_id": "f3bddd6c-1c3e-4812-a146-05c389560d95",
+  "product_id": 49,
+  "customer_id": 58,
+  "rating": 1,
+  "created_at": {
+    "$date": "2024-11-21T14:13:26.000Z"
+  },
+  "helpful_votes": 4
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e907"
+  },
+  "review_id": "b439ed0c-c69f-4fc6-9485-33b3556aa513",
+  "product_id": 46,
+  "customer_id": 34,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-11-16T14:51:30.000Z"
+  },
+  "helpful_votes": 11
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e908"
+  },
+  "review_id": "a0725e15-c4c2-4e2c-8abf-b6e746744829",
+  "product_id": 33,
+  "customer_id": 8,
+  "rating": 3,
+  "created_at": {
+    "$date": "2024-12-04T12:38:29.000Z"
+  },
+  "helpful_votes": 5
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e909"
+  },
+  "review_id": "ef47c3d4-7d51-466d-aa8d-49b4c1e03701",
+  "product_id": 37,
+  "customer_id": 43,
+  "rating": 1,
+  "created_at": {
+    "$date": "2025-04-15T06:01:11.000Z"
+  },
+  "helpful_votes": 16
+},
+{
+  "_id": {
+    "$oid": "68b608db90425f342a54e90a"
+  },
+  "review_id": "1b053831-97a9-4107-b7bb-712f7bb5f3f9",
+  "product_id": 17,
+  "customer_id": 130,
+  "rating": 3,
+  "created_at": {
+    "$date": "2025-08-23T23:33:20.000Z"
+  },
+  "helpful_votes": 24
+}]
